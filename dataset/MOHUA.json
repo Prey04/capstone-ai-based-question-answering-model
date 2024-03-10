@@ -1,0 +1,1566 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Real Estate 1",
+            "paragraphs": [
+                {
+                    "context": "An Act to establish the Real Estate Regulatory Authority for regulation and promotion of the real estate sector and to ensure sale of plot, apartment or building, as the case may be, or sale of real estate project, in an efficient and transparent manner and to protect the interest of consumers in the real estate sector and to establish an adjudicating mechanism for speedy dispute redressal and also to establish the Appellate Tribunal to hear appeals from the decisions, directions or orders of the Real Estate Regulatory Authority and the adjudicating officer and for matters connected therewith or incidental thereto. BE it enacted by Parliament in the Sixty-seventh Year of the Republic of India as follows:\u2014 CHAPTER I PRELIMINARY 1. (1) This Act may be called the Real Estate (Regulation and Development) Act, 2016. (2) It extends to the whole of India except the State of Jammu and Kashmir. (3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint: Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.",
+                    "qas": [
+                        {
+                            "question": "What is the real estate act?",
+                            "id": "id_0_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "An Act to establish the Real Estate Regulatory Authority for regulation and promotion of the real estate sector and to ensure sale of plot, apartment or building, as the case may be, or sale of real estate project, in an efficient and transparent manner and to protect the interest of consumers in the real estate sector and to establish an adjudicating mechanism for speedy dispute redressal and also to establish the Appellate Tribunal to hear appeals from the decisions, directions or orders of the Real Estate Regulatory Authority and the adjudicating officer and for matters connected therewith or incidental thereto."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Where is the real estate act applicable?",
+                            "id": "id_0_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 827,
+                                    "text": "It extends to the whole of India except the State of Jammu and Kashmir."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the real estate act enacted?",
+                            "id": "id_0_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 817,
+                                    "text": "2016."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Real Estate 2",
+            "paragraphs": [
+                {
+                    "context": "(a) \"adjudicating officer\" means the adjudicating officer appointed under sub-section (1) of section 71; (b) \"advertisement\" means any document described or issued as advertisement through any medium and includes any notice, circular or other documents or publicity in any form, informing persons about a real estate project, or offering for sale of a plot, building or apartment or inviting persons to purchase in any manner such plot, building or apartment or to make advances or deposits for such purposes; (c) \"agreement for sale\" means an agreement entered into between the promoter and the allottee; (d) \"allottee\" in relation to a real estate project, means the person to whom a plot, apartment or building, as the case may be, has been allotted, sold (whether as freehold or leasehold) or otherwise transferred by the promoter, and includes the person who subsequently acquires the said allotment through sale, transfer or otherwise but does not include a person to whom such plot, apartment or building, as the case may be, is given on rent; (e) \"apartment\" whether called block, chamber, dwelling unit, flat, office, showroom, shop, godown, premises, suit, tenement, unit or by any other name, means a separate and self-contained part of any immovable property, including one or more rooms or enclosed spaces, located on one or more floors or any part thereof, in a building or on a plot of land, used or intended to be used for any residential or commercial use such as residence, office, shop, showroom or godown or for carrying on any business, occupation, profession or trade, or for any other type of use ancillary to the purpose specified;",
+                    "qas": [
+                        {
+                            "question": "What is an adjudicating officer?",
+                            "id": "id_1_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "\"adjudicating officer\" means the adjudicating officer appointed under sub-section (1) of section 71;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is an advertisement with respect to the real estate act 2016?",
+                            "id": "id_1_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 109,
+                                    "text": "\"advertisement\" means any document described or issued as advertisement through any medium and includes any notice, circular or other documents or publicity in any form, informing persons about a real estate project, or offering for sale of a plot, building or apartment or inviting persons to purchase in any manner such plot, building or apartment or to make advances or deposits for such purposes;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is an agreement of sale?",
+                            "id": "id_1_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 514,
+                                    "text": "\"agreement for sale\" means an agreement entered into between the promoter and the allottee;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is an allottee?",
+                            "id": "id_1_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 610,
+                                    "text": "\"allottee\" in relation to a real estate project, means the person to whom a plot, apartment or building, as the case may be, has been allotted, sold (whether as freehold or leasehold) or otherwise transferred by the promoter, and includes the person who subsequently acquires the said allotment through sale, transfer or otherwise but does not include a person to whom such plot, apartment or building, as the case may be, is given on rent;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How is a unit classed as an appartment?",
+                            "id": "id_1_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1055,
+                                    "text": "\"apartment\" whether called block, chamber, dwelling unit, flat, office, showroom, shop, godown, premises, suit, tenement, unit or by any other name, means a separate and self-contained part of any immovable property, including one or more rooms or enclosed spaces, located on one or more floors or any part thereof, in a building or on a plot of land, used or intended to be used for any residential or commercial use such as residence, office, shop, showroom or godown or for carrying on any business, occupation, profession or trade, or for any other type of use ancillary to the purpose specified;"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Real estate 3",
+            "paragraphs": [
+                {
+                    "context": "(g) \"appropriate Government\" means in respect of matters relating to,\u2014 (i) the Union territory without Legislature, the Central Government; (ii) the Union territory of Puducherry, the Union territory Government; (iii) the Union territory of Delhi, the Central Ministry of Urban Development; (iv) the State, the State Government; (h) \"architect\" means a person registered as an architect under the provisions of the Architects Act, 1972; (i) \"Authority\" means the Real Estate Regulatory Authority established under sub-section (1) of section 20; (j) \"building\" includes any structure or erection or part of a structure or erection which is intended to be used for residential, commercial or for the purpose of any business, occupation, profession or trade, or for any other related purposes; (k) \"carpet area\" means the net usable floor area of an apartment, excluding the area covered by the external walls, areas under services shafts, exclusive balcony or verandah area and exclusive open terrace area, but includes the area covered by the internal partition walls of the apartment",
+                    "qas": [
+                        {
+                            "question": "What do we understand by appropriate government?",
+                            "id": "id_2_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "\"appropriate Government\" means in respect of matters relating to,\u2014 (i) the Union territory without Legislature, the Central Government; (ii) the Union territory of Puducherry, the Union territory Government; (iii) the Union territory of Delhi, the Central Ministry of Urban Development; (iv) the State, the State Government;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who qualifies as an architect?",
+                            "id": "id_2_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 333,
+                                    "text": "\"architect\" means a person registered as an architect under the provisions of the Architects Act, 1972;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is the authority with respect to the real estate act?",
+                            "id": "id_2_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 441,
+                                    "text": "\"Authority\" means the Real Estate Regulatory Authority established under sub-section (1) of section 20;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is carpet area?",
+                            "id": "id_2_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 795,
+                                    "text": "\"carpet area\" means the net usable floor area of an apartment, excluding the area covered by the external walls, areas under services shafts, exclusive balcony or verandah area and exclusive open terrace area, but includes the area covered by the internal partition walls of the apartment"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Real Estate 4",
+            "paragraphs": [
+                {
+                    "context": "(1) No promoter shall advertise, market, book, sell or offer for sale, or invite persons to purchase in any manner any plot, apartment or building, as the case may be, in any real estate project or part of it, in any planning area, without registering the real estate project with the Real Estate Regulatory Authority established under this Act: Provided that projects that are ongoing on the date of commencement of this Act and for which the completion certificate has not been issued, the promoter shall make an application to the Authority for registration of the said project within a period of three months from the date of commencement of this Act: Provided further that if the Authority thinks necessary, in the interest of allottees, for projects which are developed beyond the planning area but with the requisite permission of the local authority, it may, by order, direct the promoter of such project to register with the Authority, and the provisions of this Act or the rules and regulations made thereunder, shall apply to such projects from that stage of registration.",
+                    "qas": [
+                        {
+                            "question": "What is the function of the Real Estate Regulatory Authority?",
+                            "id": "id_3_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "No promoter shall advertise, market, book, sell or offer for sale, or invite persons to purchase in any manner any plot, apartment or building, as the case may be, in any real estate project or part of it, in any planning area, without registering the real estate project with the Real Estate Regulatory Authority established under this Act"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How can a project under real estate act obtain a completion certificate?",
+                            "id": "id_3_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 346,
+                                    "text": "Provided that projects that are ongoing on the date of commencement of this Act and for which the completion certificate has not been issued, the promoter shall make an application to the Authority for registration of the said project within a period of three months from the date of commencement of this Act:"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many months after commencement can a promoter ask for completion certificate?",
+                            "id": "id_3_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 488,
+                                    "text": "the promoter shall make an application to the Authority for registration of the said project within a period of three months from the date of commencement of this Act:"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Real estate 5",
+            "paragraphs": [
+                {
+                    "context": "(2) Notwithstanding anything contained in sub-section (1), no registration of the real estate project shall be required\u2014 (a) where the area of land proposed to be developed does not exceed five hundred square meters or the number of apartments proposed to be developed does not exceed eight inclusive of all phases: Provided that, if the appropriate Government considers it necessary, it may, reduce the threshold below five hundred square meters or eight apartments, as the case may be, inclusive of all phases, for exemption from registration under this Act; (b) where the promoter has received completion certificate for a real estate project prior to commencement of this Act; (c) for the purpose of renovation or repair or re-development which does not involve marketing, advertising selling or new allotment of any apartment, plot or building, as the case may be, under the real estate project.",
+                    "qas": [
+                        {
+                            "question": "When is registration not required for a real estate project?",
+                            "id": "id_4_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 59,
+                                    "text": "no registration of the real estate project shall be required\u2014 (a) where the area of land proposed to be developed does not exceed five hundred square meters or the number of apartments proposed to be developed does not exceed eight inclusive of all phases: Provided that, if the appropriate Government considers it necessary, it may, reduce the threshold below five hundred square meters or eight apartments, as the case may be, inclusive of all phases, for exemption from registration under this Act; (b) where the promoter has received completion certificate for a real estate project prior to commencement of this Act; (c) for the purpose of renovation or repair or re-development which does not involve marketing, advertising selling or new allotment of any apartment, plot or building, as the case may be, under the real estate project."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the minimum area for a real estate to be registered?",
+                            "id": "id_4_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 189,
+                                    "text": "five hundred square meters"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many apartments must there be for the building to be registered in the real estate act?",
+                            "id": "id_4_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 59,
+                                    "text": "no registration of the real estate project shall be required\u2014 (a) where the area of land proposed to be developed does not exceed five hundred square meters or the number of apartments proposed to be developed does not exceed eight inclusive of all phases:"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport policy of India",
+            "paragraphs": [
+                {
+                    "context": "1. India is poised for rapid economic growth. Such future growth will largely come from the secondary and tertiary sectors of the economy, i.e., the industrial and service sectors. Since economic activities in these sectors primarily take place in urban areas, the state of our towns and cities is crucial to India\u2019s future growth. 2. Further, India\u2019s urban population is currently around 30% of its total population. Experience across the world has been that as economies grow, rapid urbanization takes this proportion to over 60% before it begins to stabilize. As such, it is projected that India\u2019s urban population would grow to about 473 million in 2021 and 820 million by 2051, as against only 285 million in 2001. Hence, cities must not only meet the mobility needs of the current population but also provide for the needs of those yet to join the urban population. In this context, the Government of India has launched the National Urban Renewal Mission (NURM) that inter-alia seeks to bring about comprehensive improvements in urban infrastructure, committing substantial funds for this purpose and requiring a series of reforms that would make the investments sustainable.",
+                    "qas": [
+                        {
+                            "question": "What are secondary and tertiary sectors?",
+                            "id": "id_5_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 145,
+                                    "text": "the industrial and service sectors."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Why are urban areas important for economic growth?",
+                            "id": "id_5_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "India is poised for rapid economic growth. Such future growth will largely come from the secondary and tertiary sectors of the economy, i.e., the industrial and service sectors. Since economic activities in these sectors primarily take place in urban areas, the state of our towns and cities is crucial to India\u2019s future growth."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many people live in Urban areas in India?",
+                            "id": "id_5_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 344,
+                                    "text": "India\u2019s urban population is currently around 30% of its total population."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the National Urban Renewal Mission?",
+                            "id": "id_5_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 418,
+                                    "text": "Experience across the world has been that as economies grow, rapid urbanization takes this proportion to over 60% before it begins to stabilize. As such, it is projected that India\u2019s urban population would grow to about 473 million in 2021 and 820 million by 2051, as against only 285 million in 2001. Hence, cities must not only meet the mobility needs of the current population but also provide for the needs of those yet to join the urban population. In this context, the Government of India has launched the National Urban Renewal Mission (NURM) that inter-alia seeks to bring about comprehensive improvements in urban infrastructure, committing substantial funds for this purpose and requiring a series of reforms that would make the investments sustainable."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the projected population of Urban India in the future?",
+                            "id": "id_5_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 563,
+                                    "text": "As such, it is projected that India\u2019s urban population would grow to about 473 million in 2021 and 820 million by 2051, as against only 285 million in 2001."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does NURM stand for?",
+                            "id": "id_5_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 930,
+                                    "text": "National Urban Renewal Mission"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport Policy 2",
+            "paragraphs": [
+                {
+                    "context": "3. For urban areas to be able to support the required level of economic activity, they must provide for the easy and sustainable flow of goods and people. Unfortunately, however, such flow of goods and people has been facing several problems. Most prominent among them have been the following: \u2022 Accessing jobs, education, recreation and similar activities is becoming increasingly time consuming. Billions of man hours are lost with people \u201cstuck in traffic\u201d. The primary reason for this has been the explosive growth in the number of motor vehicles, coupled with limitations on the amount of road space that can be provided. For example, on an average, while the population of India\u2019s six major metropolises increased by about 1.9 times during 1981 to 2001, the number of motor vehicles went up by over 7.75 times during the same period.\u2022 The cost of travel, especially for the poor, has increased considerably. This is largely because the use of cheaper non-motorised modes like cycling and walking has become extremely risky, since these modes have to share the same right of way with motorized modes. Further, with population growth, cities have tended to sprawl and increased travel distances have made non-motorized modes impossible to use. This has made access to livelihoods, particularly for the poor, far more difficult.\u2022 Travel in the city has become more risky with accident rates having gone up from 1.6 lakh in 1981 to over 3.9 lakh in 2001. The number of persons killed in road accidents has also gone up from 28,400 to over 80,000 during the same period. This again hastened to impact the poor more severely as many of those killed or injured tend to be cyclists, pedestrians or pavement dwellers.\u2022 Increased use of personal vehicles has led to increased air pollution.",
+                    "qas": [
+                        {
+                            "question": "What problems has the increasing number of vehicles made on the flow of goods in the economy?",
+                            "id": "id_6_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 296,
+                                    "text": "Accessing jobs, education, recreation and similar activities is becoming increasingly time consuming. Billions of man hours are lost with people \u201cstuck in traffic\u201d. The primary reason for this has been the explosive growth in the number of motor vehicles, coupled with limitations on the amount of road space that can be provided."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Why is transport cost higher?",
+                            "id": "id_6_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 841,
+                                    "text": "The cost of travel, especially for the poor, has increased considerably. This is largely because the use of cheaper non-motorised modes like cycling and walking has become extremely risky, since these modes have to share the same right of way with motorized modes. Further, with population growth, cities have tended to sprawl and increased travel distances have made non-motorized modes impossible to use. This has made access to livelihoods, particularly for the poor, far more difficult."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the rate of accidents in urban areas?",
+                            "id": "id_6_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1333,
+                                    "text": "Travel in the city has become more risky with accident rates having gone up from 1.6 lakh in 1981 to over 3.9 lakh in 2001. The number of persons killed in road accidents has also gone up from 28,400 to over 80,000 during the same period."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the problems faced by urban areas to support required level of economic activity?",
+                            "id": "id_6_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "For urban areas to be able to support the required level of economic activity, they must provide for the easy and sustainable flow of goods and people. Unfortunately, however, such flow of goods and people has been facing several problems. Most prominent among them have been the following: \u2022 Accessing jobs, education, recreation and similar activities is becoming increasingly time consuming. Billions of man hours are lost with people \u201cstuck in traffic\u201d. The primary reason for this has been the explosive growth in the number of motor vehicles, coupled with limitations on the amount of road space that can be provided. For example, on an average, while the population of India\u2019s six major metropolises increased by about 1.9 times during 1981 to 2001, the number of motor vehicles went up by over 7.75 times during the same period.\u2022 The cost of travel, especially for the poor, has increased considerably. This is largely because the use of cheaper non-motorised modes like cycling and walking has become extremely risky, since these modes have to share the same right of way with motorized modes. Further, with population growth, cities have tended to sprawl and increased travel distances have made non-motorized modes impossible to use. This has made access to livelihoods, particularly for the poor, far more difficult.\u2022 Travel in the city has become more risky with accident rates having gone up from 1.6 lakh in 1981 to over 3.9 lakh in 2001. The number of persons killed in road accidents has also gone up from 28,400 to over 80,000 during the same period. This again hastened to impact the poor more severely as many of those killed or injured tend to be cyclists, pedestrians or pavement dwellers.\u2022 Increased use of personal vehicles has led to increased air pollution."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport Policy 3",
+            "paragraphs": [
+                {
+                    "context": "VISION\u2022 To recognize that people occupy center-stage in our cities and all plans would be for their common benefit and well being\u2022 To make our cities the most livable in the world and enable them to become the \u201cengines of economic growth\u201d that power India\u2019s development in the 21st century\u2022 To allow our cities to evolve into an urban form that is best suited for the unique geography of their locations and is best placed to support the main social and economic activities that take place in the city. OBJECTIVES 5. The objective of this policy is to ensure safe, affordable, quick, comfortable, reliable and sustainable access for the growing number of city residents to jobs, education, recreation and such other needs within our cities. This is sought to be achieved by:\u2022 Incorporating urban transportation as an important parameter at the urban planning stage rather than being a consequential requirement\u2022 Encouraging integrated land use and transport planning in all cities so that travel distances are minimized and access to livelihoods, education, and other social needs, especially for the marginal segments of the urban population is improved\u2022 Improving access of business to markets and the various factors of production\u2022 Bringing about a more equitable allocation of road space with people, rather than vehicles, as its main focus\u2022 Encourage greater use of public transport and nonmotorized modes by offering Central financial assistance for this purpose\u2022 Enabling the establishment of quality focused multi-modal public transport systems that are well integrated, providing seamless travel across modes\u2022 Establishing effective regulatory and enforcement mechanisms that allow a level playing field for all operators of transport services and enhanced safety for the transport system users\u2022 Establishing institutional mechanisms for enhanced coordination in the planning and management of transport systems\u2022 Introducing Intelligent Transport Systems for traffic management\u2022 Addressing concerns of road safety and trauma response\u2022 Reducing pollution levels through changes in traveling practices, better enforcement, stricter norms, technological improvements, etc.",
+                    "qas": [
+                        {
+                            "question": "What is the vision of the National Urban Transport Policy?",
+                            "id": "id_7_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 6,
+                                    "text": "\u2022 To recognize that people occupy center-stage in our cities and all plans would be for their common benefit and well being\u2022 To make our cities the most livable in the world and enable them to become the \u201cengines of economic growth\u201d that power India\u2019s development in the 21st century\u2022 To allow our cities to evolve into an urban form that is best suited for the unique geography of their locations and is best placed to support the main social and economic activities that take place in the city."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the objectives of the National Urban Transport Policy?",
+                            "id": "id_7_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 517,
+                                    "text": "The objective of this policy is to ensure safe, affordable, quick, comfortable, reliable and sustainable access for the growing number of city residents to jobs, education, recreation and such other needs within our cities. This is sought to be achieved by:\u2022 Incorporating urban transportation as an important parameter at the urban planning stage rather than being a consequential requirement\u2022 Encouraging integrated land use and transport planning in all cities so that travel distances are minimized and access to livelihoods, education, and other social needs, especially for the marginal segments of the urban population is improved\u2022 Improving access of business to markets and the various factors of production\u2022 Bringing about a more equitable allocation of road space with people, rather than vehicles, as its main focus\u2022 Encourage greater use of public transport and nonmotorized modes by offering Central financial assistance for this purpose\u2022 Enabling the establishment of quality focused multi-modal public transport systems that are well integrated, providing seamless travel across modes\u2022 Establishing effective regulatory and enforcement mechanisms that allow a level playing field for all operators of transport services and enhanced safety for the transport system users\u2022 Establishing institutional mechanisms for enhanced coordination in the planning and management of transport systems\u2022 Introducing Intelligent Transport Systems for traffic management\u2022 Addressing concerns of road safety and trauma response\u2022 Reducing pollution levels through changes in traveling practices, better enforcement, stricter norms, technological improvements, etc."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport Policy 4",
+            "paragraphs": [
+                {
+                    "context": "7. The objectives of this policy would be achieved through a multi-pronged approach that would revolve around the measures highlighted in the previous section. These are further elaborated in the sections that follow. Integrating land use and transport planning 8. Cities in India vary considerably in terms of their population, area, urban form, topography, economic activities, income levels, growth constraints, etc. Accordingly, the design of the transport system will have to depend on these city specific features. Further, transport planning is intrinsically linked to land use planning and both need to be developed together in a manner that serves the entire population and yet minimizes travel needs. In short, an integrated master plan needs to internalize the features of sustainable transport systems. In developing such plans, attention should also be paid to channel the future growth of a city around a preplanned transport network rather than develop a transport system after uncontrolled sprawl has taken place. Transport plans should, therefore, enable a city to take an urban form that best suits the geographical constraints of its location and also one that best supports the key social and economic activities of its residents. Unfortunately, however, transport planning has not received the extent of attention it should have in drawing up strategic development and land use plans.9. The Government of India would, therefore, promote the development of such integrated land use and transport plans for all cities. To enable this, all urban development and planning bodies in the States would be required to have in house transport planners as well as representation from transport authorities in their managements. The Government of India would extend support for the preparation of such integrated land use and transport plans, to the extent of 50% of the cost involved in developing such plans, provided the city also demonstrates its willingness to act in accordance with them. In order to create models for possible learning and replication, the Government of India would fully support pilot studies in a few sample cities, of different characteristics and in different regions of the country. As part of this exercise, each city would also be encouraged to identify potential corridors for future development and then establish a transport system that would encourage growth around itself. For example, radial corridors emerging from the city and extending up to 20-30 kms could be reserved for future development. Such corridors would have to be protected from encroachment by putting up physical barriers along such reserved corridors and physically constructing roads on short stretches even before settlements come up. This would imply that stretches of the corridor would come up first in order to guide the location of the settlements and not allow undue sprawl to take place.10. A scheme already exists under which the Central Government provides partial financial support for traffic and transport studies in cities. This would be modified to enhance the extent of Central Government support and also make these studies more broad based to integrate transport planning with land use planning, keeping projected populations in mind.",
+                    "qas": [
+                        {
+                            "question": "What is the design of transport system dependent on?",
+                            "id": "id_8_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "Cities in India vary considerably in terms of their population, area, urban form, topography, economic activities, income levels, growth constraints, etc. Accordingly, the design of the transport system will have to depend on these city specific features."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How is the Urban Transport Policy implemented?",
+                            "id": "id_8_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "The objectives of this policy would be achieved through a multi-pronged approach that would revolve around the measures highlighted in the previous section. These are further elaborated in the sections that follow."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How are transport planning and land use planning related?",
+                            "id": "id_8_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 530,
+                                    "text": "transport planning is intrinsically linked to land use planning and both need to be developed together in a manner that serves the entire population and yet minimizes travel needs. In short, an integrated master plan needs to internalize the features of sustainable transport systems."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the process of transport planning?",
+                            "id": "id_8_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "Cities in India vary considerably in terms of their population, area, urban form, topography, economic activities, income levels, growth constraints, etc. Accordingly, the design of the transport system will have to depend on these city specific features. Further, transport planning is intrinsically linked to land use planning and both need to be developed together in a manner that serves the entire population and yet minimizes travel needs. In short, an integrated master plan needs to internalize the features of sustainable transport systems. In developing such plans, attention should also be paid to channel the future growth of a city around a preplanned transport network rather than develop a transport system after uncontrolled sprawl has taken place. Transport plans should, therefore, enable a city to take an urban form that best suits the geographical constraints of its location and also one that best supports the key social and economic activities of its residents. Unfortunately, however, transport planning has not received the extent of attention it should have in drawing up strategic development and land use plans."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How are proper transport and land use planning enabled?",
+                            "id": "id_8_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1538,
+                                    "text": "To enable this, all urban development and planning bodies in the States would be required to have in house transport planners as well as representation from transport authorities in their managements."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does the government of India contribute to these transport and land use plans?",
+                            "id": "id_8_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1739,
+                                    "text": "The Government of India would extend support for the preparation of such integrated land use and transport plans, to the extent of 50% of the cost involved in developing such plans, provided the city also demonstrates its willingness to act in accordance with them."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What kind of models are used for transport and land use planning?",
+                            "id": "id_8_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2005,
+                                    "text": "In order to create models for possible learning and replication, the Government of India would fully support pilot studies in a few sample cities, of different characteristics and in different regions of the country. As part of this exercise, each city would also be encouraged to identify potential corridors for future development and then establish a transport system that would encourage growth around itself. For example, radial corridors emerging from the city and extending up to 20-30 kms could be reserved for future development. Such corridors would have to be protected from encroachment by putting up physical barriers along such reserved corridors and physically constructing roads on short stretches even before settlements come up. This would imply that stretches of the corridor would come up first in order to guide the location of the settlements and not allow undue sprawl to take place."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who provides financial support for traffic studies?",
+                            "id": "id_8_0_8",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2915,
+                                    "text": "A scheme already exists under which the Central Government provides partial financial support for traffic and transport studies in cities. This would be modified to enhance the extent of Central Government support and also make these studies more broad based to integrate transport planning with land use planning, keeping projected populations in mind."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How is land use and transport planning integrated?",
+                            "id": "id_8_0_9",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 265,
+                                    "text": "Cities in India vary considerably in terms of their population, area, urban form, topography, economic activities, income levels, growth constraints, etc. Accordingly, the design of the transport system will have to depend on these city specific features. Further, transport planning is intrinsically linked to land use planning and both need to be developed together in a manner that serves the entire population and yet minimizes travel needs. In short, an integrated master plan needs to internalize the features of sustainable transport systems. In developing such plans, attention should also be paid to channel the future growth of a city around a preplanned transport network rather than develop a transport system after uncontrolled sprawl has taken place. Transport plans should, therefore, enable a city to take an urban form that best suits the geographical constraints of its location and also one that best supports the key social and economic activities of its residents. Unfortunately, however, transport planning has not received the extent of attention it should have in drawing up strategic development and land use plans.9. The Government of India would, therefore, promote the development of such integrated land use and transport plans for all cities. To enable this, all urban development and planning bodies in the States would be required to have in house transport planners as well as representation from transport authorities in their managements. The Government of India would extend support for the preparation of such integrated land use and transport plans, to the extent of 50% of the cost involved in developing such plans, provided the city also demonstrates its willingness to act in accordance with them. In order to create models for possible learning and replication, the Government of India would fully support pilot studies in a few sample cities, of different characteristics and in different regions of the country. As part of this exercise, each city would also be encouraged to identify potential corridors for future development and then establish a transport system that would encourage growth around itself. For example, radial corridors emerging from the city and extending up to 20-30 kms could be reserved for future development. Such corridors would have to be protected from encroachment by putting up physical barriers along such reserved corridors and physically constructing roads on short stretches even before settlements come up. This would imply that stretches of the corridor would come up first in order to guide the location of the settlements and not allow undue sprawl to take place.10. A scheme already exists under which the Central Government provides partial financial support for traffic and transport studies in cities. This would be modified to enhance the extent of Central Government support and also make these studies more broad based to integrate transport planning with land use planning, keeping projected populations in mind."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport Policy 5",
+            "paragraphs": [
+                {
+                    "context": "11. At present, road space gets allocated to whichever vehicle occupies it first. The focus is, therefore, the vehicle and not people. The result is that a bus carrying 40 people is allocated only two and a half times the road space that is allocated to a car carrying only one or two persons. In this process, the lower income groups have, effectively, ended up paying, in terms of higher travel time and higher travel costs, for the disproportionate space allocated to personal vehicles. Users of non motorized modes have tended to be squeezed out of the roads on account of serious threats to their safety. If the focus of the principles of road space allocation were to be the people, then much more space would need to be allocated to public transport systems than is allocated at present.12. The Central Government would, therefore, encourage measures that allocate road space on a more equitable basis, with people as its focus. This can be achieved by reserving lanes and corridors exclusively for public transport and non-motorized modes of travel. Similarly lanes could be reserved for vehicles that carry more than three persons (popularly known as High Occupancy Vehicle Lanes). Past experience has been that such reserved lanes are not respected by motorists and therefore lose meaning. In order to facilitate better enforcement of such lane discipline, suitable provisions would be introduced in the Motor Vehicles Act and other instrumentalities to enable stringent penalties for violation.",
+                    "qas": [
+                        {
+                            "question": "What is the problem with the present road space allocation?",
+                            "id": "id_9_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "At present, road space gets allocated to whichever vehicle occupies it first. The focus is, therefore, the vehicle and not people. The result is that a bus carrying 40 people is allocated only two and a half times the road space that is allocated to a car carrying only one or two persons. In this process, the lower income groups have, effectively, ended up paying, in terms of higher travel time and higher travel costs, for the disproportionate space allocated to personal vehicles. Users of non motorized modes have tended to be squeezed out of the roads on account of serious threats to their safety."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How can the road space allocation problem be fixed?",
+                            "id": "id_9_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 610,
+                                    "text": "If the focus of the principles of road space allocation were to be the people, then much more space would need to be allocated to public transport systems than is allocated at present."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are good practices for road space allocation?",
+                            "id": "id_9_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 798,
+                                    "text": "The Central Government would, therefore, encourage measures that allocate road space on a more equitable basis, with people as its focus. This can be achieved by reserving lanes and corridors exclusively for public transport and non-motorized modes of travel. Similarly lanes could be reserved for vehicles that carry more than three persons (popularly known as High Occupancy Vehicle Lanes). Past experience has been that such reserved lanes are not respected by motorists and therefore lose meaning. In order to facilitate better enforcement of such lane discipline, suitable provisions would be introduced in the Motor Vehicles Act and other instrumentalities to enable stringent penalties for violation."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport Policy 6",
+            "paragraphs": [
+                {
+                    "context": "13. It is well known that public transport occupies less road space and causes less pollution per passenger-km than personal vehicles. As such, public transport is a more sustainable form of transport. Therefore, the central government would promote investments in public transport as well as measures that make its use more attractive than in the past. Towards this end, the Central government would encourage all State capitals as well as other cities with a population of more than one million to start planning for high capacity public transport systems. In doing so, they should look at various proven technologies around the world, including the use of available waterways, They should adopt a technology that would best suit the city requirements in the next 30 years. Comprehensive city wide plans should be drawn up comprising trunk and feeder corridors as well as good integration with personal modes, suburban traffic, etc. High cost trunk route systems should, through appropriate hub-spoke arrangements be integrated with feeder systems that enable higher ridership on such trunk systems. 14. In order to effectively promote such investments, the Central Government would:\u2022 Provide 50% of the cost of preparing comprehensive city transport plans and detailed project reports\u2022 Offer equity participation and/or viability gap funding to the extent of 20% of the capital cost of public transport systems\u2022 Offer 50% of the cost of project development whenever such projects are sought to be taken up through public-private partnerships, so that a sound basis for attracting private partners can be established. The remaining cost of such project development would have to come from the city development authority/State government and a project developer.",
+                    "qas": [
+                        {
+                            "question": "What is the best form of transport for short disctances?",
+                            "id": "id_10_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "It is well known that public transport occupies less road space and causes less pollution per passenger-km than personal vehicles. As such, public transport is a more sustainable form of transport."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Why and how does the central government promote the use of public transport?",
+                            "id": "id_10_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "It is well known that public transport occupies less road space and causes less pollution per passenger-km than personal vehicles. As such, public transport is a more sustainable form of transport. Therefore, the central government would promote investments in public transport as well as measures that make its use more attractive than in the past."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the steps taken to improve the quality of public transport?",
+                            "id": "id_10_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 376,
+                                    "text": "Central government would encourage all State capitals as well as other cities with a population of more than one million to start planning for high capacity public transport systems. In doing so, they should look at various proven technologies around the world, including the use of available waterways, They should adopt a technology that would best suit the city requirements in the next 30 years. Comprehensive city wide plans should be drawn up comprising trunk and feeder corridors as well as good integration with personal modes, suburban traffic, etc. High cost trunk route systems should, through appropriate hub-spoke arrangements be integrated with feeder systems that enable higher ridership on such trunk systems."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What kind of investments are made to make the promotion of public transport possible?",
+                            "id": "id_10_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1106,
+                                    "text": "In order to effectively promote such investments, the Central Government would:\u2022 Provide 50% of the cost of preparing comprehensive city transport plans and detailed project reports\u2022 Offer equity participation and/or viability gap funding to the extent of 20% of the capital cost of public transport systems\u2022 Offer 50% of the cost of project development whenever such projects are sought to be taken up through public-private partnerships, so that a sound basis for attracting private partners can be established. The remaining cost of such project development would have to come from the city development authority/State government and a project developer."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transport Policy 7",
+            "paragraphs": [
+                {
+                    "context": "16. So far, fares for public transport have been set on the premise that this mode of travel is used by the poor, who have no other means of meeting their travel needs. As such, fares have been kept low as a measure of social equity. This has resulted in most public transport systems being unable to recover their operating costs. It has, in fact, encouraged poorly operated systems that have been financially sustainable only through serious compromises on the quality of the service they render. In the present day context, however, public transport serves another social purpose. It helps reduce congestion and air pollution, if users of personal vehicles can be persuaded to shift to public transport. Their needs are, however, for improved quality and not so much for low fares. It is, therefore, necessary to think of different types of public transport services for different segments of commuters. Those who place a premium on cost are the poorest sections of society and need to be given affordable prices. The cost of providing public transport for them needs to be subsidized by other sections of society. However, there is another segment that values time saved and comfort more than price. This segment is comparatively better off and would shift to public transport if high quality systems are available to them. The cost of providing public transport to them need not be subsidized and can be met from the fare revenues. As such, the Central Government would encourage the provision of different levels of services \u2013 a basic service, with subsidized fares and a premium service, which is of high quality but charges higher fares and involves no subsidy. 17. To facilitate this, the Central Government would offer support under the NURM for premium service infrastructure such as improved bus stations and terminals, improved passenger information systems, use of intelligent transport systems for monitoring and control, restructuring of State Transport Corporations, etc. 18. To ensure that the fares charged are fair and reasonable, the Central government would require that a regulatory authority be set up by the State Government to, inter-alia, regulate the prices to be charged by different types of public transport services.",
+                    "qas": [
+                        {
+                            "question": "Who are the main users of public transport?",
+                            "id": "id_11_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "So far, fares for public transport have been set on the premise that this mode of travel is used by the poor, who have no other means of meeting their travel needs."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Why have public transport fares been kept low?",
+                            "id": "id_11_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 169,
+                                    "text": "As such, fares have been kept low as a measure of social equity. This has resulted in most public transport systems being unable to recover their operating costs. It has, in fact, encouraged poorly operated systems that have been financially sustainable only through serious compromises on the quality of the service they render."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the scope of public transport in modern days?",
+                            "id": "id_11_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "So far, fares for public transport have been set on the premise that this mode of travel is used by the poor, who have no other means of meeting their travel needs. As such, fares have been kept low as a measure of social equity. This has resulted in most public transport systems being unable to recover their operating costs. It has, in fact, encouraged poorly operated systems that have been financially sustainable only through serious compromises on the quality of the service they render. In the present day context, however, public transport serves another social purpose. It helps reduce congestion and air pollution, if users of personal vehicles can be persuaded to shift to public transport. Their needs are, however, for improved quality and not so much for low fares. It is, therefore, necessary to think of different types of public transport services for different segments of commuters. Those who place a premium on cost are the poorest sections of society and need to be given affordable prices. The cost of providing public transport for them needs to be subsidized by other sections of society. However, there is another segment that values time saved and comfort more than price. This segment is comparatively better off and would shift to public transport if high quality systems are available to them. The cost of providing public transport to them need not be subsidized and can be met from the fare revenues. As such, the Central Government would encourage the provision of different levels of services \u2013 a basic service, with subsidized fares and a premium service, which is of high quality but charges higher fares and involves no subsidy."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does govrnment facilitate the working of public transport?",
+                            "id": "id_11_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1674,
+                                    "text": "To facilitate this, the Central Government would offer support under the NURM for premium service infrastructure such as improved bus stations and terminals, improved passenger information systems, use of intelligent transport systems for monitoring and control, restructuring of State Transport Corporations, etc. 18. To ensure that the fares charged are fair and reasonable, the Central government would require that a regulatory authority be set up by the State Government to, inter-alia, regulate the prices to be charged by different types of public transport services."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does the government regulate the price of public transport?",
+                            "id": "id_11_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1993,
+                                    "text": "To ensure that the fares charged are fair and reasonable, the Central government would require that a regulatory authority be set up by the State Government to, inter-alia, regulate the prices to be charged by different types of public transport services."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Street vendors",
+            "paragraphs": [
+                {
+                    "context": "An Act to protect the rights of urban street vendors and to regulate street vending activities and for matters connected therewith or incidental thereto. BE it enacted by Parliament in the Sixty-fifth Year of the Republic of India as follows:\u2014 CHAPTER I PRELIMINARY 1. (1) This Act may be called the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. (2) It extends to the whole of India except the State of Jammu and Kashmir. (3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different States and any reference in any provision to the commencement of this Act shall be construed in relation to any State as a reference to the coming into force of that provision in that State. (4) The provisions of this Act shall not apply to any land, premises and trains owned and controlled by the Railways under the Railway Act, 1989.",
+                    "qas": [
+                        {
+                            "question": "What is the aim of the Street Vendor Act?",
+                            "id": "id_12_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "An Act to protect the rights of urban street vendors and to regulate street vending activities and for matters connected therewith or incidental thereto."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the geographical extent of the Street Vendor Act?",
+                            "id": "id_12_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 390,
+                                    "text": "It extends to the whole of India except the State of Jammu and Kashmir."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When should the Street Vendor Act come to action?",
+                            "id": "id_12_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 466,
+                                    "text": "It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different States and any reference in any provision to the commencement of this Act shall be construed in relation to any State as a reference to the coming into force of that provision in that State."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Which land is exempted from the Street Vendor Act?",
+                            "id": "id_12_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 831,
+                                    "text": "The provisions of this Act shall not apply to any land, premises and trains owned and controlled by the Railways under the Railway Act, 1989."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "More Vendors",
+            "paragraphs": [
+                {
+                    "context": "2. (1) In this Act, unless the context otherwise requires,\u2014 (a) \u201cappropriate Government\u201d means in respect of matters relating to,\u2014 (i) a Union territory without Legislature, the Central Government; (ii) the Union territories with Legislature, the Government of the National Capital Territory of Delhi or, as the case may be, the Government of Union territory of Puducherry; (iii) a State, the State Government; (b) \u201cholding capacity\u201d means the maximum number of street vendors who can be accommodated in any vending zone and has been determined as such by the local authority on the recommendations of the Town Vending Committee; (c) \u201clocal authority\u201d means a Municipal Corporation or a Municipal Council or a Nagar Panchayat, by whatever name called, or the Cantonment Board, or as the case may be, a civil area committee appointed under section 47 of the Cantonment Act, 2006 or such other body entitled to function as a local authority in any city or town to provide civic services and regulate street vending and includes the \u201cplanning authority\u201d which regulates the land use in that city or town; (d) \u201cmobile vendors\u201d means street vendors who carry out vending activities in designated area by moving from one place to another place vending their goods and services; (e) \u201cnatural market\u201d means a market where sellers and buyers have traditionally congregated for the sale and purchase of products or services and has been determined as such by the local authority on the recommendations of the Town Vending Committee; (f) \u201cnotification\u201d means a notification published in the Official Gazette and the term \u201cnotify\u201d shall be construed accordingly;",
+                    "qas": [
+                        {
+                            "question": "What is an appropriate government?",
+                            "id": "id_13_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 8,
+                                    "text": "n this Act, unless the context otherwise requires,\u2014 (a) \u201cappropriate Government\u201d means in respect of matters relating to,\u2014 (i) a Union territory without Legislature, the Central Government; (ii) the Union territories with Legislature, the Government of the National Capital Territory of Delhi or, as the case may be, the Government of Union territory of Puducherry; (iii) a State, the State Government;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What do we mean by holding capacity?",
+                            "id": "id_13_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 415,
+                                    "text": "\u201cholding capacity\u201d means the maximum number of street vendors who can be accommodated in any vending zone and has been determined as such by the local authority on the recommendations of the Town Vending Committee;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is local authority?",
+                            "id": "id_13_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 635,
+                                    "text": "local authority\u201d means a Municipal Corporation or a Municipal Council or a Nagar Panchayat, by whatever name called, or the Cantonment Board, or as the case may be, a civil area committee appointed under section 47 of the Cantonment Act, 2006 or such other body entitled to function as a local authority in any city or town to provide civic services and regulate street vending and includes the \u201cplanning authority\u201d which regulates the land use in that city or town;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who are mobile vendors?",
+                            "id": "id_13_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1106,
+                                    "text": "\u201cmobile vendors\u201d means street vendors who carry out vending activities in designated area by moving from one place to another place vending their goods and services;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a natural market?",
+                            "id": "id_13_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1276,
+                                    "text": "\u201cnatural market\u201d means a market where sellers and buyers have traditionally congregated for the sale and purchase of products or services and has been determined as such by the local authority on the recommendations of the Town Vending Committee;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a notification?",
+                            "id": "id_13_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1527,
+                                    "text": "\u201cnotification\u201d means a notification published in the Official Gazette and the term \u201cnotify\u201d shall be construed accordingly;"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Street Vendors 3",
+            "paragraphs": [
+                {
+                    "context": "(g)\u201cplanning authority\u201d means an Urban Development Authority or any other authority in any city or town designated by the appropriate Government as responsible for regulating the land use by defining the precise extent of areas for any particular activity in the master plan or development plan or zonal plan or layout plan or any other spatial plan which is legally enforceable under the applicable Town and Country Planning Act or the Urban Development Act or the Municipal Act, as the case may be; (k) \u201cstationary vendors\u201d means street vendors who carry out vending activities on regular basis at a specific location; (l) \u201cstreet vendor\u201d means a person engaged in vending of articles, goods, wares, food items or merchandise of everyday use or offering services to the general public, in a street, lane, side walk, footpath, pavement, public park or any other public place or private area, from a temporary built up structure or by moving from place to place and includes hawker, peddler, squatter and all other synonymous terms which may be local or region specific; and the words \u201cstreet vending\u201d with their grammatical variations and cognate expressions, shall be construed accordingly; (m) \u201cTown Vending Committee\u201d means the body constituted by the appropriate Government under section 22; (n) \u201cvending zone\u201d means an area or a place or a location designated as such by the local authority, on the recommendations of the Town Vending Committee, for the specific use by street vendors for street vending and includes footpath, side walk, pavement, embankment, portions of a street, waiting area for public or any such place considered suitable for vending activities and providing services to the general public.",
+                    "qas": [
+                        {
+                            "question": "What is a planning authority?",
+                            "id": "id_14_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "\u201cplanning authority\u201d means an Urban Development Authority or any other authority in any city or town designated by the appropriate Government as responsible for regulating the land use by defining the precise extent of areas for any particular activity in the master plan or development plan or zonal plan or layout plan or any other spatial plan which is legally enforceable under the applicable Town and Country Planning Act or the Urban Development Act or the Municipal Act, as the case may be;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who are stationary vendors?",
+                            "id": "id_14_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 505,
+                                    "text": "\u201cstationary vendors\u201d means street vendors who carry out vending activities on regular basis at a specific location;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is considered a street vendor?",
+                            "id": "id_14_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 625,
+                                    "text": "\u201cstreet vendor\u201d means a person engaged in vending of articles, goods, wares, food items or merchandise of everyday use or offering services to the general public, in a street, lane, side walk, footpath, pavement, public park or any other public place or private area, from a temporary built up structure or by moving from place to place and includes hawker, peddler, squatter and all other synonymous terms which may be local or region specific; and the words \u201cstreet vending\u201d with their grammatical variations and cognate expressions, shall be construed accordingly;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a street vendor?",
+                            "id": "id_14_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 625,
+                                    "text": "\u201cstreet vendor\u201d means a person engaged in vending of articles, goods, wares, food items or merchandise of everyday use or offering services to the general public, in a street, lane, side walk, footpath, pavement, public park or any other public place or private area, from a temporary built up structure or by moving from place to place and includes hawker, peddler, squatter and all other synonymous terms which may be local or region specific; and the words \u201cstreet vending\u201d with their grammatical variations and cognate expressions, shall be construed accordingly;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a town vending committee?",
+                            "id": "id_14_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1197,
+                                    "text": "\u201cTown Vending Committee\u201d means the body constituted by the appropriate Government under section 22;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a vending zone?",
+                            "id": "id_14_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1301,
+                                    "text": "\u201cvending zone\u201d means an area or a place or a location designated as such by the local authority, on the recommendations of the Town Vending Committee, for the specific use by street vendors for street vending and includes footpath, side walk, pavement, embankment, portions of a street, waiting area for public or any such place considered suitable for vending activities and providing services to the general public."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who decides if a place is a vending zone or not?",
+                            "id": "id_14_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1428,
+                                    "text": "Town Vending Committee,"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Street VEndors 4",
+            "paragraphs": [
+                {
+                    "context": "CHAPTER II REGULATION OF STREET VENDING 3. (1) The Town Vending Committee shall, within such period and in such manner as may be specified in the scheme, conduct a survey of all existing street vendors, within the area under its jursidiction, and subsequent survey shall be carried out at least once in every five years. (2) The Town Vending Committee shall ensure that all existing street vendors, identified in the survey, are accommondated in the vending zones subject to a norm conforming to two and half per cent. of the population of the ward or zone or town or city, as the case may be, in accordance with the plan for street vending and the holding capacity of the vending zones. (3) No street vendor shall be evicted or, as the case may be, relocated till the survey has been completed and the certificate of vending is issued to all street vendors. 4. (1) Every street vendor, identified under the survey who has completed the age of fourteen years or such age as may be prescribed by the appropriate Government, shall be issued a certificate of vending by the Town Vending Committee, subject to such terms and conditions and within the period specified in the scheme including the restrictions specified in the plan for street vending: Provided that a person, whether or not included under the survey, who has been issued a certificate of vending before the commencement of this Act, whether known as licence or any other form of permission (whether as a stationary vendor or a mobile vendor or under any other category) shall be deemed to be a street vendor for that category for the period for which he has been issued such certificate of vending. (2) Where, in the intervening period between two surveys, any person seeks to vend, the Town Vending Committee may grant a certificate of vending to such person, subject to the scheme, the plan for street vending and the holding capacity of the vending zones. (3) Where the number of street vendors or the number of persons seeking to vend are more than the holding capacity of the vending zone and exceeds the number of persons to be accommodated in that vending zone, the Town Vending Committee shall carry out a draw of lots for issuing the certificate of vending for that vending zone and the remaining persons shall be accommodated in any adjoining vending zone to avoid relocation.",
+                    "qas": [
+                        {
+                            "question": "How does the Vending Committee identify vendors?",
+                            "id": "id_15_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 47,
+                                    "text": "The Town Vending Committee shall, within such period and in such manner as may be specified in the scheme, conduct a survey of all existing street vendors, within the area under its jursidiction, and subsequent survey shall be carried out at least once in every five years."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How frequently is the survey for street vendors conducted?",
+                            "id": "id_15_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 258,
+                                    "text": "survey shall be carried out at least once in every five years."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How are the vendors allocated space in their towns?",
+                            "id": "id_15_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 325,
+                                    "text": "The Town Vending Committee shall ensure that all existing street vendors, identified in the survey, are accommondated in the vending zones subject to a norm conforming to two and half per cent. of the population of the ward or zone or town or city, as the case may be, in accordance with the plan for street vending and the holding capacity of the vending zones."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who allocates the zones for the vendors in their towns?",
+                            "id": "id_15_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 47,
+                                    "text": "The Town Vending Committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When can a vendor be evicted?",
+                            "id": "id_15_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 692,
+                                    "text": "No street vendor shall be evicted or, as the case may be, relocated till the survey has been completed and the certificate of vending is issued to all street vendors."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is eligible for a vendor certificate?",
+                            "id": "id_15_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 866,
+                                    "text": "Every street vendor, identified under the survey who has completed the age of fourteen years or such age as may be prescribed by the appropriate Government, shall be issued a certificate of vending by the Town Vending Committee, subject to such terms and conditions and within the period specified in the scheme including the restrictions specified in the plan for street vending:"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Can a new vendor obtain a vendor certificate in between two surveys?",
+                            "id": "id_15_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1672,
+                                    "text": "in the intervening period between two surveys, any person seeks to vend, the Town Vending Committee may grant a certificate of vending to such person, subject to the scheme, the plan for street vending and the holding capacity of the vending zones."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What happens when the holding capacity of a vending zone is exceeded?",
+                            "id": "id_15_0_8",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1925,
+                                    "text": "Where the number of street vendors or the number of persons seeking to vend are more than the holding capacity of the vending zone and exceeds the number of persons to be accommodated in that vending zone, the Town Vending Committee shall carry out a draw of lots for issuing the certificate of vending for that vending zone and the remaining persons shall be accommodated in any adjoining vending zone to avoid relocation."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Vendors 5",
+            "paragraphs": [
+                {
+                    "context": "5. (1) Every street vendor shall give an undertaking to the Town Vending Committee prior to the issue of a certificate of vending under section 4, that\u2014 (a) he shall carry on the business of street vending himself or through any of his family member; (b) he has no other means of livelihood: (c) he shall not transfer in any manner whatsoever, including rent, the certificate of vending or the place specified therein to any other person. (2) Where a street vendor to whom a certificate of vending is issued dies or suffers from any permanent disability or is ill, one of his family member in following order of priority, may vend in his place, till the validity of the certificate of vending\u2014 (a) spouse of the street vendor; (b) dependent child of the street vendor: Provided that where a dispute arises as to who is entitled to vend in the place of the vendor, the matter shall be decided by the committee  6. (1) The certificate of vending shall be issued under any of the following categories, namely:\u2014 (a) a stationary vendor; (b) a mobile vendor; or (c) any other category as may be specified in the scheme. (2) The certificate of vending issued for the categories specified in sub-section (1) shall be in such form, and issued in such manner, as may be specified in the scheme and specify the vending zone where the street vendor shall carry on his vending activities, the days and timings for carrying on such vending activities and the conditions and restrictions subject to which he shall carry on such vending activities. (3) Every street vendor who has been issued certificate of vending under sub-section (1) shall be issued identity cards in such form and manner as may be specified in the scheme. 7. The criteria to be followed by the Town Vending Committee for issuing certificate of vending to a street vendor shall be as specified in the scheme, which may, apart from other things, provide for preference to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, women, persons with disabilities, minorities or such other categories as may be specified in the scheme. 8. Every street vendor who has been issued certificate of vending shall pay such vending fees as may be specified in the scheme. 9. (1) Every certificate of vending shall be valid for such period as may be specified in the scheme. (2) Every certificate of vending shall be renewable for such period, in such manner, and on payment of such fees, as may be specified in the scheme. 10. Where a street vendor who has been issued a certificate of vending under this Act commits breach of any of the conditions thereof or any other terms and conditions specified for the purpose of regulating street vending under this Act or any rules or schemes made thereunder, or where the Town Vending Committee is satisfied that such certificate of vending has been secured by the street vendor through misrepresentation or fraud, the Town Vending Committee may, without prejudice to any other fine which may have been incurred by the street vendor under this Act, cancel the certificate of vending or suspend the same in such manner as may be specified in the scheme and for such period as it deems fit: Provided that no such cancellation or suspension shall be made by the Town Vending Committee unless an opportunity of hearing has been given to the street vendor.",
+                    "qas": [
+                        {
+                            "question": "What are the criteria for a person to apply for a vending certificate?",
+                            "id": "id_16_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "(1) Every street vendor shall give an undertaking to the Town Vending Committee prior to the issue of a certificate of vending under section 4, that\u2014 (a) he shall carry on the business of street vending himself or through any of his family member; (b) he has no other means of livelihood: (c) he shall not transfer in any manner whatsoever, including rent, the certificate of vending or the place specified therein to any other person."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who can replace the vendor who has the certificate when he is unable to vend?",
+                            "id": "id_16_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 443,
+                                    "text": "Where a street vendor to whom a certificate of vending is issued dies or suffers from any permanent disability or is ill, one of his family member in following order of priority, may vend in his place, till the validity of the certificate of vending\u2014 (a) spouse of the street vendor; (b) dependent child of the street vendor: Provided that where a dispute arises as to who is entitled to vend in the place of the vendor, the matter shall be decided by the committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the different types of vendors?",
+                            "id": "id_16_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 913,
+                                    "text": "(1) The certificate of vending shall be issued under any of the following categories, namely:\u2014 (a) a stationary vendor; (b) a mobile vendor; or (c) any other category as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is included in a vending certificate?",
+                            "id": "id_16_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1119,
+                                    "text": "The certificate of vending issued for the categories specified in sub-section (1) shall be in such form, and issued in such manner, as may be specified in the scheme and specify the vending zone where the street vendor shall carry on his vending activities, the days and timings for carrying on such vending activities and the conditions and restrictions subject to which he shall carry on such vending activities."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How can a vendor be identified?",
+                            "id": "id_16_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1538,
+                                    "text": "Every street vendor who has been issued certificate of vending under sub-section (1) shall be issued identity cards in such form and manner as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does the Town Vending Committee choose vendors for vending certificates?",
+                            "id": "id_16_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1716,
+                                    "text": "The criteria to be followed by the Town Vending Committee for issuing certificate of vending to a street vendor shall be as specified in the scheme, which may, apart from other things, provide for preference to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, women, persons with disabilities, minorities or such other categories as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Is a vendor liable to pay rent?",
+                            "id": "id_16_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2103,
+                                    "text": "Every street vendor who has been issued certificate of vending shall pay such vending fees as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How long is a vending certificate valid?",
+                            "id": "id_16_0_8",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2232,
+                                    "text": "(1) Every certificate of vending shall be valid for such period as may be specified in the scheme. (2) Every certificate of vending shall be renewable for such period, in such manner, and on payment of such fees, as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What causes cancellation of vending certificate?",
+                            "id": "id_16_0_9",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2484,
+                                    "text": "Where a street vendor who has been issued a certificate of vending under this Act commits breach of any of the conditions thereof or any other terms and conditions specified for the purpose of regulating street vending under this Act or any rules or schemes made thereunder, or where the Town Vending Committee is satisfied that such certificate of vending has been secured by the street vendor through misrepresentation or fraud, the Town Vending Committee may, without prejudice to any other fine which may have been incurred by the street vendor under this Act, cancel the certificate of vending or suspend the same in such manner as may be specified in the scheme and for such period as it deems fit: Provided that no such cancellation or suspension shall be made by the Town Vending Committee unless an opportunity of hearing has been given to the street vendor."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When can a vendor be suspeded of his vending certificate?",
+                            "id": "id_16_0_10",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2484,
+                                    "text": "Where a street vendor who has been issued a certificate of vending under this Act commits breach of any of the conditions thereof or any other terms and conditions specified for the purpose of regulating street vending under this Act or any rules or schemes made thereunder, or where the Town Vending Committee is satisfied that such certificate of vending has been secured by the street vendor through misrepresentation or fraud, the Town Vending Committee may, without prejudice to any other fine which may have been incurred by the street vendor under this Act, cancel the certificate of vending or suspend the same in such manner as may be specified in the scheme and for such period as it deems fit: Provided that no such cancellation or suspension shall be made by the Town Vending Committee unless an opportunity of hearing has been given to the street vendor."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Vendor 6",
+            "paragraphs": [
+                {
+                    "context": "11. (1) Any person who is aggrieved by any decision of the Town Vending Committee with respect to issue of certificate of vending under section 6 or cancellation or suspension of certificate of vending under section 10 may prefer an appeal to the local authority in such form, within such period, and in such manner, as may be prescribed. (2) No appeal shall be disposed of by the local authority unless the appellant has been given an opportunity of hearing. 12. (1) Every street vendor shall have the right to carry on the business of street vending activities in accordance with the terms and conditions mentioned in the certificate of vending. (2) Notwithstanding anything contained in sub-section (1), where any area or space, as the case may be, has been earmarked as no-vending zone, no street vendor shall carry out any vending activities in that zone. 13. Every street vendor, who possesses a certificate of vending, shall, in case of his relocation under section 18, be entitled for new site or area, as the case may be, for carrying out his vending activities as may be determined by the local authority, in consultation with the Town Vending Committee. 14. Where a street vendor occupies space on a time sharing basis, he shall remove his goods and wares every day at the end of the time-sharing period allowed to him. 15. Every street vendor shall maintain cleanliness and public hygiene in the vending zones and the adjoining areas. 16. Every street vendor shall maintain civic amenities and public property in the vending zone in good condition and not damage or destroy or cause any damage or destruction to the same. 17. Every street vendor shall pay such periodic maintenance charges for the civic amenities and facilities provided in the vending zones as may be determined by the local authority.",
+                    "qas": [
+                        {
+                            "question": "How can an aggrieved vendor fight his case with the Town Vending Committee?",
+                            "id": "id_17_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "11. (1) Any person who is aggrieved by any decision of the Town Vending Committee with respect to issue of certificate of vending under section 6 or cancellation or suspension of certificate of vending under section 10 may prefer an appeal to the local authority in such form, within such period, and in such manner, as may be prescribed. (2) No appeal shall be disposed of by the local authority unless the appellant has been given an opportunity of hearing."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the rights of a vendor?",
+                            "id": "id_17_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 465,
+                                    "text": "1) Every street vendor shall have the right to carry on the business of street vending activities in accordance with the terms and conditions mentioned in the certificate of vending. (2) Notwithstanding anything contained in sub-section (1), where any area or space, as the case may be, has been earmarked as no-vending zone, no street vendor shall carry out any vending activities in that zone."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Where can a vendor not set up shop?",
+                            "id": "id_17_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 707,
+                                    "text": "where any area or space, as the case may be, has been earmarked as no-vending zone, no street vendor shall carry out any vending activities in that zone."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How can a vendor change the location for his vending activities?",
+                            "id": "id_17_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 865,
+                                    "text": "Every street vendor, who possesses a certificate of vending, shall, in case of his relocation under section 18, be entitled for new site or area, as the case may be, for carrying out his vending activities as may be determined by the local authority, in consultation with the Town Vending Committee."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How can multiple vendors share an area of vending activity?",
+                            "id": "id_17_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1169,
+                                    "text": "Where a street vendor occupies space on a time sharing basis, he shall remove his goods and wares every day at the end of the time-sharing period allowed to him."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the duties of a vendor?",
+                            "id": "id_17_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1166,
+                                    "text": "4. Where a street vendor occupies space on a time sharing basis, he shall remove his goods and wares every day at the end of the time-sharing period allowed to him. 15. Every street vendor shall maintain cleanliness and public hygiene in the vending zones and the adjoining areas. 16. Every street vendor shall maintain civic amenities and public property in the vending zone in good condition and not damage or destroy or cause any damage or destruction to the same. 17. Every street vendor shall pay such periodic maintenance charges for the civic amenities and facilities provided in the vending zones as may be determined by the local authority."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How are civic amenities in a vending zone paid for?",
+                            "id": "id_17_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1638,
+                                    "text": "Every street vendor shall pay such periodic maintenance charges for the civic amenities and facilities provided in the vending zones as may be determined by the local authority."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "VEndor 7",
+            "paragraphs": [
+                {
+                    "context": "18. (1) The local authority may, on the recommendations of the Town Vending Committee, declare a zone or part of it to be a no-vending zone for any public purpose and relocate the street vendors vending in that area, in such manner as may be specified in the scheme. (2) The local authority shall evict such street vendor whose certificate of vending has been cancelled under section 10 or who does not have a certificate of vending and vends without such certificate, in such manner as may be specified in the scheme. (3) No street vendor shall be relocated or evicted by the local authority from the place specified in the certificate of vending unless he has been given thirty days\u2019 notice for the same in such manner as may be specified in the scheme. (4) A street vendor shall be relocated or evicted by the local authority physically in such manner as may be specified in the scheme only after he had failed to vacate the place specified in the certificate of vending, after the expiry of the period specified in the notice. (5) Every street vendor who fails to relocate or vacate the place specified in the certificate of vending, after the expiry of the period specified in the notice, shall be liable to pay for every day of such default, a penalty which may extend up to two hundred and fifty rupees, as may be determined by the local authority, but shall not be more than the value of goods seized. 19. (1) If the street vendor fails to vacate the place specified in the certificate of vending, after the lapse of the period specified in the notice given under sub-section (3) of section 18, the local authority, in addition to evicting the street vendor under section 18, may, if it deems necessary, seize the goods of such street vendor in such manner as may be specified in the scheme: Provided that where any such seizure is carried out, a list of goods seized shall be prepared, as specified in the scheme, and a copy thereof, duly signed by the person authorised to seize the goods, shall be issued to the street vendor. (2) The street vendor whose goods have been seized under sub-section (1) may, reclaim his goods in such manner, and after paying such fees, as may be specified in the scheme: Provided that in case of non-perishable goods, the local authority shall release the goods within two working days of the claim being made by the street vendor, and in case of perishable goods the local authority shall release the goods on the same day of the claim being made by the street vendor.",
+                    "qas": [
+                        {
+                            "question": "What happens to a vendor if his vending zone is declared a no vending zone?",
+                            "id": "id_18_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 9,
+                                    "text": "he local authority may, on the recommendations of the Town Vending Committee, declare a zone or part of it to be a no-vending zone for any public purpose and relocate the street vendors vending in that area, in such manner as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When can a vendor be evicted?",
+                            "id": "id_18_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 271,
+                                    "text": "The local authority shall evict such street vendor whose certificate of vending has been cancelled under section 10 or who does not have a certificate of vending and vends without such certificate, in such manner as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How much time is given to a vendor to relocate if needed?",
+                            "id": "id_18_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 523,
+                                    "text": "No street vendor shall be relocated or evicted by the local authority from the place specified in the certificate of vending unless he has been given thirty days\u2019 notice for the same in such manner as may be specified in the scheme."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What happens if a vendor fails to relocate in the given time?",
+                            "id": "id_18_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 760,
+                                    "text": "A street vendor shall be relocated or evicted by the local authority physically in such manner as may be specified in the scheme only after he had failed to vacate the place specified in the certificate of vending, after the expiry of the period specified in the notice."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Is there a fine for not relocating on time?",
+                            "id": "id_18_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1035,
+                                    "text": "Every street vendor who fails to relocate or vacate the place specified in the certificate of vending, after the expiry of the period specified in the notice, shall be liable to pay for every day of such default, a penalty which may extend up to two hundred and fifty rupees, as may be determined by the local authority, but shall not be more than the value of goods seized."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How long does it take for a vendor to reclaim seized items?",
+                            "id": "id_18_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2213,
+                                    "text": "Provided that in case of non-perishable goods, the local authority shall release the goods within two working days of the claim being made by the street vendor, and in case of perishable goods the local authority shall release the goods on the same day of the claim being made by the street vendor."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the procedure of reclaiming seized items?",
+                            "id": "id_18_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2042,
+                                    "text": "The street vendor whose goods have been seized under sub-section (1) may, reclaim his goods in such manner, and after paying such fees, as may be specified in the scheme: Provided that in case of non-perishable goods, the local authority shall release the goods within two working days of the claim being made by the street vendor, and in case of perishable goods the local authority shall release the goods on the same day of the claim being made by the street vendor."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Vendor 8",
+            "paragraphs": [
+                {
+                    "context": "(1) The appropriate Government may constitute one or more committees consisting of a Chairperson who has been a civil judge or a judicial magistrate and two other professionals having such experience as may be prescribed for the purpose of deciding the applications received under sub-section (2): Provided that no employee of the appropriate Government or the local authority shall be appointed as members of the committee. (2) Every street vendor who has a grievance or dispute may make an application in writing to the committee constituted under sub-section (1) in such form and manner as may be prescribed. (3) On receipt of grievance or dispute under sub-section (2), the committee referred to in sub-section (1) shall, after verification and enquiry in such manner, as may be prescribed, take steps for redressal of such grievance or resolution of such dispute, within such time and in such manner as may be prescribed. (4) Any person who is aggrieved by the decision of the committee may prefer an appeal to the local authority in such form, within such time and in such manner as may be prescribed. (5) The local authority shall dispose of the appeal received under sub-section (4) within such time and in such manner as may be prescribed: Provided that the local authority shall, before disposing of the appeal, give an opportunity of being heard to the aggrieved person.",
+                    "qas": [
+                        {
+                            "question": "Who can be a chairperson of the vendor's committee?",
+                            "id": "id_19_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "The appropriate Government may constitute one or more committees consisting of a Chairperson who has been a civil judge or a judicial magistrate and two other professionals having such experience as may be prescribed for the purpose of deciding the applications received"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does a vendor address his grievances?",
+                            "id": "id_19_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 425,
+                                    "text": "(2) Every street vendor who has a grievance or dispute may make an application in writing to the committee constituted under sub-section (1) in such form and manner as may be prescribed."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How are grievances handled by the Vendor Committee?",
+                            "id": "id_19_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "(1) The appropriate Government may constitute one or more committees consisting of a Chairperson who has been a civil judge or a judicial magistrate and two other professionals having such experience as may be prescribed for the purpose of deciding the applications received under sub-section (2): Provided that no employee of the appropriate Government or the local authority shall be appointed as members of the committee. (2) Every street vendor who has a grievance or dispute may make an application in writing to the committee constituted under sub-section (1) in such form and manner as may be prescribed. (3) On receipt of grievance or dispute under sub-section (2), the committee referred to in sub-section (1) shall, after verification and enquiry in such manner, as may be prescribed, take steps for redressal of such grievance or resolution of such dispute, within such time and in such manner as may be prescribed. (4) Any person who is aggrieved by the decision of the committee may prefer an appeal to the local authority in such form, within such time and in such manner as may be prescribed. (5) The local authority shall dispose of the appeal received under sub-section (4) within such time and in such manner as may be prescribed: Provided that the local authority shall, before disposing of the appeal, give an opportunity of being heard to the aggrieved person."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "National urban Sanitation Policy",
+            "paragraphs": [
+                {
+                    "context": "Sanitation is defined as safe management of human excreta, including its safe confinement treatment, disposal and associated hygiene-related practices. While this policy pertains to management of human excreta and associated public health and environmental impacts, it is recognized that integral solutions need to take account of other elements of environmental sanitation, i.e. solid waste management; generation of industrial and other specialized / hazardous wastes; drainage; as also the management of drinking water supply. Urban households do not have access to latrines and defecate in the open. 5.48 million (8.13%) Urban households use community latrines and 13.4 million households (19.49%) use shared latrines. 12.47 million (18.5%) households do not have access to a drainage network. 26.83 million (39.8%) households are connected to open drains. The status in respect of the urban poor is even worse. The percentage of notified and non-notified slums without latrines is 17 percent and 51 percent respectively. More than 37% of the total human excreta generated in urban India, is unsafely disposed. This imposes significant public health and environmental costs to urban areas that contribute more than 60% of the country\u2019s GDP. Impacts of poor sanitation are especially significant for the urban poor (22% of total urban population), women, children and the elderly. The loss due to diseases caused by poor sanitation for children under 14 years alone in urban areas amounts to Rs. 500 Crore at 2001 prices (Planning Commission-United Nations International Children Emergency Fund (UNICEF), 2006). Inadequate discharge of untreated domestic/municipal wastewater has resulted in contamination of 75 percent of all surface water across India. The Millennium Development Goals (MDGs) enjoin upon the signatory nations to extend access to improved sanitation to at least half the urban population by 2015, and 100% access by 2025. This implies extending coverage to households without improved sanitation, and providing proper sanitation facilities in public places to make cities open defecation free.",
+                    "qas": [
+                        {
+                            "question": "What is sanitation?",
+                            "id": "id_20_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Sanitation is defined as safe management of human excreta, including its safe confinement treatment, disposal and associated hygiene-related practices."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the main goal of environmental sanitation?",
+                            "id": "id_20_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 380,
+                                    "text": "solid waste management; generation of industrial and other specialized / hazardous wastes; drainage; as also the management of drinking water supply."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the sanitary condition of urban areas?",
+                            "id": "id_20_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 530,
+                                    "text": "Urban households do not have access to latrines and defecate in the open. 5.48 million (8.13%) Urban households use community latrines and 13.4 million households (19.49%) use shared latrines. 12.47 million (18.5%) households do not have access to a drainage network. 26.83 million (39.8%) households are connected to open drains. The status in respect of the urban poor is even worse. The percentage of notified and non-notified slums without latrines is 17 percent and 51 percent respectively. More than 37% of the total human excreta generated in urban India, is unsafely disposed. This imposes significant public health and environmental costs to urban areas that contribute more than 60% of the country\u2019s GDP. Impacts of poor sanitation are especially significant for the urban poor (22% of total urban population), women, children and the elderly."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the losses caused due to poort sanitation?",
+                            "id": "id_20_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1384,
+                                    "text": "The loss due to diseases caused by poor sanitation for children under 14 years alone in urban areas amounts to Rs. 500 Crore at 2001 prices (Planning Commission-United Nations International Children Emergency Fund (UNICEF), 2006). Inadequate discharge of untreated domestic/municipal wastewater has resulted in contamination of 75 percent of all surface water across India."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does MDG stand for?",
+                            "id": "id_20_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1758,
+                                    "text": "The Millennium Development Goals"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the objective of the MDGs?",
+                            "id": "id_20_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1758,
+                                    "text": "The Millennium Development Goals (MDGs) enjoin upon the signatory nations to extend access to improved sanitation to at least half the urban population by 2015, and 100% access by 2025. This implies extending coverage to households without improved sanitation, and providing proper sanitation facilities in public places to make cities open defecation free."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "NUSP 2",
+            "paragraphs": [
+                {
+                    "context": "All Indian cities and towns become totally sanitized, healthy and liveable and ensure and sustain good public health and environmental outcomes for all their citizens with a special focus on hygienic and affordable sanitation facilities for the urban poor and women. Key Sanitation Policy Issues In order to achieve the above Vision, following key policy issues must be addressed: Poor Awareness: Sanitation has been accorded low priority and there is poor awareness about its inherent linkages with public health. Social and Occupational aspects of Sanitation: Despite the appropriate legal framework, progress towards the elimination of manual scavenging has shown limited success, Little or no attention has been paid towards the occupational hazard faced by sanitation workers daily. Fragmented Institutional Roles and Responsibilities: There are considerable gaps and overlaps in institutional roles and responsibilities at the national, state, and city levels. Lack of an Integrated City-wide Approach: Sanitation investments are currently planned in a piece-meal manner and do not take into account the full cycle of safe confinement, treatment and safe disposal. Limited Technology Choices: Technologies have been focused on limited options that have not been cost-effective, and sustainability of investments has been in question. Reaching the Un-served and Poor: Urban poor communities as well other residents of informal settlements have been constrained by lack of tenure, space or economic constraints, in obtaining affordable access to safe sanitation. In this context, the issues of whether services to the poor should be individualised and whether community services should be provided in non-notified slums should be addressed. However provision of individual toilets should be prioritised. In relation to \u201cPay and Use\u201d toilets, the issue of subsidies inadvertently reaching the non-poor should be addressed by identifying different categories of urban poor. Lack of Demand Responsiveness: Sanitation has been provided by public agencies in a supply-driven manner, with little regard for demands and preferences of households as customers of sanitation services.",
+                    "qas": [
+                        {
+                            "question": "What is the Vision of the National Urban Sanitation Policy?",
+                            "id": "id_21_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "All Indian cities and towns become totally sanitized, healthy and liveable and ensure and sustain good public health and environmental outcomes for all their citizens with a special focus on hygienic and affordable sanitation facilities for the urban poor and women."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How has lack of awareness affected sanitation in urban areas?",
+                            "id": "id_21_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 397,
+                                    "text": "Sanitation has been accorded low priority and there is poor awareness about its inherent linkages with public health. Social and Occupational aspects of Sanitation: Despite the appropriate legal framework, progress towards the elimination of manual scavenging has shown limited success, Little or no attention has been paid towards the occupational hazard faced by sanitation workers daily."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the problem with the current approach on sanitation?",
+                            "id": "id_21_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1009,
+                                    "text": "Sanitation investments are currently planned in a piece-meal manner and do not take into account the full cycle of safe confinement, treatment and safe disposal."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Do we have technological advancements in the field of sanitation?",
+                            "id": "id_21_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1199,
+                                    "text": "Technologies have been focused on limited options that have not been cost-effective, and sustainability of investments has been in question."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Why is it difficult for proper sanitation to be available for the poor?",
+                            "id": "id_21_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1373,
+                                    "text": "Urban poor communities as well other residents of informal settlements have been constrained by lack of tenure, space or economic constraints, in obtaining affordable access to safe sanitation. In this context, the issues of whether services to the poor should be individualised and whether community services should be provided in non-notified slums should be addressed. However provision of individual toilets should be prioritised. In relation to \u201cPay and Use\u201d toilets, the issue of subsidies inadvertently reaching the non-poor should be addressed by identifying different categories of urban poor."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Why is the existing sanitation infrasturcture unusable?",
+                            "id": "id_21_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2007,
+                                    "text": "Sanitation has been provided by public agencies in a supply-driven manner, with little regard for demands and preferences of households as customers of sanitation services."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the key issues with the sanitation policy?",
+                            "id": "id_21_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 267,
+                                    "text": "Key Sanitation Policy Issues In order to achieve the above Vision, following key policy issues must be addressed: Poor Awareness: Sanitation has been accorded low priority and there is poor awareness about its inherent linkages with public health. Social and Occupational aspects of Sanitation: Despite the appropriate legal framework, progress towards the elimination of manual scavenging has shown limited success, Little or no attention has been paid towards the occupational hazard faced by sanitation workers daily. Fragmented Institutional Roles and Responsibilities: There are considerable gaps and overlaps in institutional roles and responsibilities at the national, state, and city levels. Lack of an Integrated City-wide Approach: Sanitation investments are currently planned in a piece-meal manner and do not take into account the full cycle of safe confinement, treatment and safe disposal. Limited Technology Choices: Technologies have been focused on limited options that have not been cost-effective, and sustainability of investments has been in question. Reaching the Un-served and Poor: Urban poor communities as well other residents of informal settlements have been constrained by lack of tenure, space or economic constraints, in obtaining affordable access to safe sanitation. In this context, the issues of whether services to the poor should be individualised and whether community services should be provided in non-notified slums should be addressed. However provision of individual toilets should be prioritised. In relation to \u201cPay and Use\u201d toilets, the issue of subsidies inadvertently reaching the non-poor should be addressed by identifying different categories of urban poor. Lack of Demand Responsiveness: Sanitation has been provided by public agencies in a supply-driven manner, with little regard for demands and preferences of households as customers of sanitation services."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "NUSP 3",
+            "paragraphs": [
+                {
+                    "context": "The overall goal of this policy is to transform Urban India into community-driven, totally sanitized, healthy and liveable cities and towns. Awareness Generation and Behaviour Change a. Generating awareness about sanitation and its linkages with public and environmental health amongst communities and institutions; b. Promoting mechanisms to bring about and sustain behavioural changes aimed at adoption of healthy sanitation practices; Achieving Open Defecation Free Cities All urban dwellers will have access to and use safe and hygienic sanitation facilities and arrangements so that no one defecates in the open. In order to achieve this goal, the following activities shall be undertaken: a. Promoting access to households with safe sanitation facilities (including proper disposal arrangements); b. Promoting community-planned and managed toilets wherever necessary, for groups of households who have constraints of space, tenure or economic constraints in gaining access to individual facilities; c. Adequate availability and 100 % upkeep and management of Public Sanitation facilities in all Urban Areas, to rid them of open defecation and environmental hazards; Re-Orienting Institutions and Mainstreaming Sanitation a. Mainstream thinking, planning and implementing measures related to sanitation in all sectors and departmental domains as a cross-cutting issue, especially in all urban management endeavours; Sanitary and Safe Disposal 100 % of human excreta and liquid wastes from all sanitation facilities including toilets must be disposed of safely. In order to achieve this goal, the following activities shall be undertaken: a. Promoting proper functioning of network-based sewerage systems and ensuring connections of households to them wherever possible; b. Promoting recycle and reuse of treated waste water for non potable applications wherever possible will be encouraged. c. Promoting proper disposal and treatment of sludge from on-site installations (septic tanks, pit latrines, etc.); d. Ensuring that all the human wastes are collected safely confined and disposed of after treatment so as not to cause any hazard to public health or the environment. Proper Operation & Maintenance of all Sanitary Installations: a. Promoting proper usage, regular upkeep and maintenance of household, community and public sanitation facilities;",
+                    "qas": [
+                        {
+                            "question": "What is the overall goal of National Urban Policy?",
+                            "id": "id_22_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "The overall goal of this policy is to transform Urban India into community-driven, totally sanitized, healthy and liveable cities and towns."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How is awareness generated for changing the behaviour of people towards sanitation?",
+                            "id": "id_22_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 186,
+                                    "text": "Generating awareness about sanitation and its linkages with public and environmental health amongst communities and institutions; b. Promoting mechanisms to bring about and sustain behavioural changes aimed at adoption of healthy sanitation practices;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does the policy want to eradicate open defication?",
+                            "id": "id_22_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 476,
+                                    "text": "All urban dwellers will have access to and use safe and hygienic sanitation facilities and arrangements so that no one defecates in the open. In order to achieve this goal, the following activities shall be undertaken: a. Promoting access to households with safe sanitation facilities (including proper disposal arrangements); b. Promoting community-planned and managed toilets wherever necessary, for groups of households who have constraints of space, tenure or economic constraints in gaining access to individual facilities; c. Adequate availability and 100 % upkeep and management of Public Sanitation facilities in all Urban Areas, to rid them of open defecation and environmental hazards;"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How does the policy achieve Safe and Sanitary disposal of sanitary waste?",
+                            "id": "id_22_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1448,
+                                    "text": "100 % of human excreta and liquid wastes from all sanitation facilities including toilets must be disposed of safely. In order to achieve this goal, the following activities shall be undertaken: a. Promoting proper functioning of network-based sewerage systems and ensuring connections of households to them wherever possible; b. Promoting recycle and reuse of treated waste water for non potable applications wherever possible will be encouraged. c. Promoting proper disposal and treatment of sludge from on-site installations (septic tanks, pit latrines, etc.); d. Ensuring that all the human wastes are collected safely confined and disposed of after treatment so as not to cause any hazard to public health or the environment."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the steps taken by NUSP to achieve their goals?",
+                            "id": "id_22_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 141,
+                                    "text": "Awareness Generation and Behaviour Change a. Generating awareness about sanitation and its linkages with public and environmental health amongst communities and institutions; b. Promoting mechanisms to bring about and sustain behavioural changes aimed at adoption of healthy sanitation practices; Achieving Open Defecation Free Cities All urban dwellers will have access to and use safe and hygienic sanitation facilities and arrangements so that no one defecates in the open. In order to achieve this goal, the following activities shall be undertaken: a. Promoting access to households with safe sanitation facilities (including proper disposal arrangements); b. Promoting community-planned and managed toilets wherever necessary, for groups of households who have constraints of space, tenure or economic constraints in gaining access to individual facilities; c. Adequate availability and 100 % upkeep and management of Public Sanitation facilities in all Urban Areas, to rid them of open defecation and environmental hazards; Re-Orienting Institutions and Mainstreaming Sanitation a. Mainstream thinking, planning and implementing measures related to sanitation in all sectors and departmental domains as a cross-cutting issue, especially in all urban management endeavours; Sanitary and Safe Disposal 100 % of human excreta and liquid wastes from all sanitation facilities including toilets must be disposed of safely. In order to achieve this goal, the following activities shall be undertaken: a. Promoting proper functioning of network-based sewerage systems and ensuring connections of households to them wherever possible; b. Promoting recycle and reuse of treated waste water for non potable applications wherever possible will be encouraged. c. Promoting proper disposal and treatment of sludge from on-site installations (septic tanks, pit latrines, etc.); d. Ensuring that all the human wastes are collected safely confined and disposed of after treatment so as not to cause any hazard to public health or the environment. Proper Operation & Maintenance of all Sanitary Installations: a. Promoting proper usage, regular upkeep and maintenance of household, community and public sanitation facilities;"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

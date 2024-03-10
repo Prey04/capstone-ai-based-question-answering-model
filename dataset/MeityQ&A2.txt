@@ -1,0 +1,477 @@
+Title: E-mail policy of Government of India
+
+Content: 1.1 The Government uses e-mail as a major mode of communication. Communications include Government of India (GoI) data that travel as part of mail transactions between users located both within the country and outside.1.2 This policy of Government of India lays down the guidelines with respect to use of e-mail services. The Implementing Agency (IA) [2] for the GoI e-mail service shall be National Informatics Centre (NIC), under the Department of Electronics and Information Technology(DeitY), Ministry of Communications and Information Technology. The organisations exempted under Clause 14 will themselves become the Implementing Agency (IA) for the purpose of thispolicy.2. Scope2.1 Only the e-mail services provided by NIC, the Implementing Agency of the Government of India shall be used for official communications by all organizations except those exempted under clause no 14 of this policy. The e-mail services provided by other service providers shall not be used for any official communication.2.2 This policy is applicable to all employees of GoI and employees of those State/UT Governments that use the e-mail services of GoI and also those State/UT Governments that choose to adopt this policy in future. The directives contained in this policy must be followed by all of them with no exceptions. All users of e-mail services can find further information in the supporting policies available on http://www.deity.gov.in/content/policiesguidelines under the caption “E-mail Policy”.
+
+Question: What is the main mode of communication for the Government Of India?
+Answer: The Government uses e-mail as a major mode of communication. Communications include Government of India (GoI) data that travel as part of mail transactions between users located both within the country and outside
+
+Question: What does the e-mail policy of Government of India do?
+Answer: This policy of Government of India lays down the guidelines with respect to use of e-mail services.
+
+Question: What is IA with respect to the e-mail policy of the Government of India?
+Answer: The Implementing Agency (IA) [2] for the GoI e-mail service shall be National Informatics Centre (NIC), under the Department of Electronics and Information Technology(DeitY), Ministry of Communications and Information Technology.
+
+Question: Who is the Implementing Agency for the e-mail policy of Government of India?
+Answer: The Implementing Agency (IA) [2] for the GoI e-mail service shall be National Informatics Centre (NIC), under the Department of Electronics and Information Technology(DeitY), Ministry of Communications and Information Technology.
+
+Question: How do government organizations communicate?
+Answer: Only the e-mail services provided by NIC, the Implementing Agency of the Government of India shall be used for official communications by all organizations except those exempted under clause no 14 of this policy.
+
+Question: Can other e-mail services be used for government communications?
+Answer: The e-mail services provided by other service providers shall not be used for any official communication.
+
+Question: Who is the e-mail policy of the Government of India applicable to?
+Answer: This policy is applicable to all employees of GoI and employees of those State/UT Governments that use the e-mail services of GoI and also those State/UT Governments that choose to adopt this policy in future. The directives contained in this policy must be followed by all of them with no exceptions. All users of e-mail services can find further information in the supporting policies available on http://www.deity.gov.in/content/policiesguidelines under the caption “E-mail Policy”. 
+
+Question: What are the policies of the e-mail policy of India?
+Answer: All users of e-mail services can find further information in the supporting policies available on http://www.deity.gov.in/content/policiesguidelines under the caption “E-mail Policy”. 
+
+
+
+Title: e-mail policy of india contd
+
+Content: The objective of this policy is to ensure secure access and usage of Government of India e-mail services by its users. Users have the responsibility to use this resource in an efficient, effective, lawful, and ethical manner. Use of the Government of India e-mail service amounts to the user's agreement to be governed by this policy.3.2 All services under e-mail are offered free of cost to all officials under Ministries / Departments /Statutory Bodies / Autonomous bodies (henceforth referred to as “Organization” in the policy)of both Central and State/UT Governments. More information is available under “NIC e-mail Services and Usage Policy” at http://www.deity.gov.in/content/policiesguidelines/ under the caption “E-mail Policy”. 3.3 Any other policies, guidelines or instructions on e-mail previously issued shall be superseded by this policy.4. Roles specified for implementation of the Policy The following roles are specified in each organization using the GoI e-mail service. The official identified for the task shall be responsible for the management of the entire user base configured under that respective domain. 4.1 Competent Authority as identified by each organization 4.2 Designated nodal officer as identified by each organization 4.3 GoI e-mail service Implementing Agency (IA), i.e. National Informatics Centre or the exempt organisation as per Clause 14 of this policy.
+
+Question: What is the objective of the e-mail Policy of Government of India?
+Answer: The objective of this policy is to ensure secure access and usage of Government of India e-mail services by its users.
+
+Question: What is the user responsible for while using government e-mail?
+Answer: Users have the responsibility to use this resource in an efficient, effective, lawful, and ethical manner. Use of the Government of India e-mail service amounts to the user's agreement to be governed by this policy
+
+Question: How much do the e-mail services cost a user?
+Answer: All services under e-mail are offered free of cost to all officials under Ministries / Departments /Statutory Bodies / Autonomous bodies (henceforth referred to as “Organization” in the policy)of both Central and State/UT Governments. More information is available under “NIC e-mail Services and Usage Policy” at http://www.deity.gov.in/content/policiesguidelines/ under the caption “E-mail Policy”.
+
+Question: What happened to the old e-mail policies?
+Answer: Any other policies, guidelines or instructions on e-mail previously issued shall be superseded by this policy.
+
+Question: What are the roles specified for the implementation of the e-mail policy of India?
+Answer: Roles specified for implementation of the Policy The following roles are specified in each organization using the GoI e-mail service. The official identified for the task shall be responsible for the management of the entire user base configured under that respective domain. 4.1 Competent Authority as identified by each organization 4.2 Designated nodal officer as identified by each organization 4.3 GoI e-mail service Implementing Agency (IA), i.e. National Informatics Centre or the exempt organisation as per Clause 14 of this policy.
+
+Question: Who is the implementation agency of the e-mail policy of government of India?
+Answer: National Informatics Centre
+
+
+
+Title: Security pertaining to the e-mail Policy of Government of india
+
+Content: 5.1 Security a) Considering the security concerns with regard to a sensitive deployment like e-mail, apart from the service provided by the IA, there would not be any other e-mail service under GoI. b) All organizations, except those exempted under clause 14 of this policy, should migrate their e-mail services to the centralized deployment of the IA for security reasons and uniform policy enforcement. For the purpose of continuity, the e-mail address of the organization migrating their service to the IA deployment shall be retained as part of the migration process. Wherever it is technically feasible, data migration shall also be done. c) Secure access to the GoI email service i) It is recommended for users working in sensitive offices to use Virtual Private Network / One Time Password for secure authentication as deemed appropriate by the competent authority. ii) It is recommended that GoI officials on long deputation/stationed abroad and handling sensitive information should use (VPN)/ (OTP) for accessing GoI e-mail services as deemed appropriate by the competent authority. iii) It is recommended that Embassies and missions abroad should use Static IP addresses for accessing the services of the IA as deemed appropriate by the competent authority. iv) More information is available under “Guidelines for E-mail Management and Effective E-mail Usage” at http://www.deity.gov.in/content/policiesguidelines under the caption “E-mail Policy”. 
+
+Question: How is the e-mail network of GOI made secure?
+Answer: a) Considering the security concerns with regard to a sensitive deployment like e-mail, apart from the service provided by the IA, there would not be any other e-mail service under GoI. b) All organizations, except those exempted under clause 14 of this policy, should migrate their e-mail services to the centralized deployment of the IA for security reasons and uniform policy enforcement. For the purpose of continuity, the e-mail address of the organization migrating their service to the IA deployment shall be retained as part of the migration process. Wherever it is technically feasible, data migration shall also be done.
+
+Question: How is secure access to government e-mail ensured?
+Answer: Secure access to the GoI email service i) It is recommended for users working in sensitive offices to use Virtual Private Network / One Time Password for secure authentication as deemed appropriate by the competent authority. ii) It is recommended that GoI officials on long deputation/stationed abroad and handling sensitive information should use (VPN)/ (OTP) for accessing GoI e-mail services as deemed appropriate by the competent authority. iii) It is recommended that Embassies and missions abroad should use Static IP addresses for accessing the services of the IA as deemed appropriate by the competent authority. iv) More information is available under “Guidelines for E-mail Management and Effective E-mail Usage” at http://www.deity.gov.in/content/policiesguidelines under the caption “E-mail Policy”. 
+
+Question: What does VPN stand for?
+Answer: Virtual Private Network
+
+Question: What does OTP stand for?
+Answer: One Time Password
+
+Question: What is the full form of VPN?
+Answer: Virtual Private Network
+
+Question: What is the full form of OTP?
+Answer: One Time Password
+
+Question: What do the sensitive offices use to completely secure their e-mail?
+Answer: It is recommended for users working in sensitive offices to use Virtual Private Network / One Time Password for secure authentication as deemed appropriate by the competent authority.
+
+Question: How should GOI employees stationed abroad access their e-mails?
+Answer: it is recommended that GoI officials on long deputation/stationed abroad and handling sensitive information should use (VPN)/ (OTP) for accessing GoI e-mail services as deemed appropriate by the competent authority.
+
+Question: What protocol is recommended for embassies using GOI e-mail?
+Answer: It is recommended that Embassies and missions abroad should use Static IP addresses for accessing the services of the IA as deemed appropriate by the competent authority.
+
+
+
+Title: e-mail policy contd
+
+Content: Delegated Admin Console Organizations can avail the “Delegated Admin Console" service from IA. Using the console the authorized person of an organization can create/delete/change the password of user ids under that respective domain as and when required without routing the request through IA. Organizations that do not opt for the admin console need to forward their requests with complete details to the IA’s support cell (support@gov.in).5.4 E-mail Domain & Virtual Hosting a) GoI provides virtual domain hosting for e-mail. If an organization so desires, the IA can offer a domain of e-mail addresses as required by them. This implies that if an organization requires an address resembling the website that they are operating, IA can provide the same. b) By default, the address “userid@gov.in” shall be assigned to the users. The user id shall be created as per the addressing policy available athttp://www.deity.gov.in/content/policiesguidelines/ under “E-mail Policy”. c) Organizations desirous of an e-mail address belonging to other domains (e.g.xxxx@deity.gov.in, yyyy@tourism.gov.in) need to forward their requests to the IA5.5 Use of Secure Passwords All users accessing the e-mail services must use strong passwords for security of their e-mail accounts. More details about the password policy are available in “Password Policy” athttp://www.deity.gov.in/content/policiesguidelines under the caption “E-mail Policy”.5.6 Privacy Users should ensure that e-mails are kept confidential. IA shall take all possible precautions on maintaining privacy. Users must ensure that information regarding their password or any other personal information is not shared with anyone.
+
+Question: What is the power of authorized person using Delegated Admin Console?
+Answer: Using the console the authorized person of an organization can create/delete/change the password of user ids under that respective domain as and when required without routing the request through IA.
+
+Question: Who is admin for ogranizations that dont opt for Delegated Admin Console?
+Answer: Organizations that do not opt for the admin console need to forward their requests with complete details to the IA’s support cell (support@gov.in).
+
+Question: What is virtual domain hosting?
+Answer: GoI provides virtual domain hosting for e-mail. If an organization so desires, the IA can offer a domain of e-mail addresses as required by them.
+
+Question: What is the default domain given to the users of GOI e-mail service?
+Answer: By default, the address “userid@gov.in” shall be assigned to the users.
+
+Question: How to obtain virtual domain?
+Answer: Organizations desirous of an e-mail address belonging to other domains (e.g.xxxx@deity.gov.in, yyyy@tourism.gov.in) need to forward their requests to the IA
+
+Question: What kind of passwords are recommended for GOI e-mails?
+Answer: All users accessing the e-mail services must use strong passwords for security of their e-mail accounts
+
+Question: How is privacy maintained by the e-mail policy of GoI?
+Answer: Users should ensure that e-mails are kept confidential. IA shall take all possible precautions on maintaining privacy. Users must ensure that information regarding their password or any other personal information is not shared with anyone.
+
+
+
+Title: e-mail policy contd contd 
+
+Content: Responsibilities of User Organizations 6.1 Policy Compliance a) All user organizations shall implement appropriate controls to ensure compliance with the e-mail policy by their users. IA shall give the requisite support in this regard. b) The user organizations shall ensure that official e-mail accounts of all its users are created only on the e-mail server of the IA. c) Nodal officer of the user organization shall ensure resolution of all incidents related to the security aspects of the e-mail policy. IA shall give the requisite support in this regard. d) Competent Authority of the user organization shall ensure that training and awareness programs on e-mail security are organized at regular intervals. Implementing Agency shall provide the required support. 6.2 Policy Dissemination a) Competent Authority of the concerned organization should ensure dissemination of the e-mail policy. b) Competent Authority should use Newsletters, banners, bulletin boards etc, to facilitate increased awareness on the e-mail policy. c) Orientation programs for new recruits shall include a session on the e-mail policy.
+
+Question: Where are the official e-mails created?
+Answer: The user organizations shall ensure that official e-mail accounts of all its users are created only on the e-mail server of the IA.
+
+Question: What is the job of the nodal officer?
+Answer: Nodal officer of the user organization shall ensure resolution of all incidents related to the security aspects of the e-mail policy. IA shall give the requisite support in this regard.
+
+Question: How are employees kept up to date about e-mail policies?
+Answer: Competent Authority of the user organization shall ensure that training and awareness programs on e-mail security are organized at regular intervals. Implementing Agency shall provide the required support.
+
+Question: How is awareness for the e-mail policy spread?
+Answer: Competent Authority of the user organization shall ensure that training and awareness programs on e-mail security are organized at regular intervals. Implementing Agency shall provide the required support.
+
+Question: How is the e-mail policy disseminated?
+Answer: a) Competent Authority of the concerned organization should ensure dissemination of the e-mail policy. b) Competent Authority should use Newsletters, banners, bulletin boards etc, to facilitate increased awareness on the e-mail policy. c) Orientation programs for new recruits shall include a session on the e-mail policy.
+
+Question: What is the compliance policy of the e-mail policy of the GOI?
+Answer: a) All user organizations shall implement appropriate controls to ensure compliance with the e-mail policy by their users. IA shall give the requisite support in this regard. b) The user organizations shall ensure that official e-mail accounts of all its users are created only on the e-mail server of the IA. c) Nodal officer of the user organization shall ensure resolution of all incidents related to the security aspects of the e-mail policy. IA shall give the requisite support in this regard. d) Competent Authority of the user organization shall ensure that training and awareness programs on e-mail security are organized at regular intervals. Implementing Agency shall provide the required support
+
+
+
+Title: Electronic Manufacturing Clusters
+
+Content: Subject: Electronics Manufacturing Clusters (EMC) Scheme to provide world-class infra structure for attracting investments in the Electronics Systems Design and Manufacturing (ESDM) Sector. -1. Background and Objective: 1.1 Manufacturing base of electronics products in the country is grossly inadequate in comparison to demand of such goods. Even in cases where products are manufactured in India, the extent of domestic value addition is low Semiconductors are at the heart of any electronic system and constitute a significant part of the total value of the Bill of Material (BOM). One of the main impediments in the way of attracting investments for manufacture of semiconductors, components and electronic products is lack of availability of good and reliable infrastructure Government proposes to offer a package of incentives to attract domestic and global investments into the Electronics Systems Design and Manufacturing (ESDM) sector within Electronics Manufacturing Clusters (EMCs) as a means to minimizing the disabilities In conjunction with the said incentives, it is imperative to ensure that world-class infrastructure and facilities be provided in these EMCS to attract investment and to provide a level playing field. This requirement has also been projected in the report of the Task Force on IT/ITES and Electronics Hardware Manufacturing Accordingly, Government has decided to offer financial support for the development of EMCs. It is expected that these EMCS would aid the growth of the ESDM sector, help development of entrepreneurial ecosystem, drive innovation and catalyze the economic growth of the region by increasing employment opportunities and tax revenues.
+
+Question: What does EMC stand for?
+Answer: Electronics Manufacturing Clusters
+
+Question: What is the purpose of EMC Scheme?
+Answer: Electronics Manufacturing Clusters (EMC) Scheme to provide world-class infra structure for attracting investments in the Electronics Systems Design and Manufacturing (ESDM) 
+
+Question: What is the heart of any electronic system?
+Answer: Semiconductors are at the heart of any electronic system
+
+Question: What is BOM?
+Answer: Bill of Material
+
+Question: What is the problem with supply of electronic products in India?
+Answer: Manufacturing base of electronics products in the country is grossly inadequate in comparison to demand of such goods. Even in cases where products are manufactured in India, the extent of domestic value addition is low
+
+Question: Why are investments not being made into the production of electronic products?
+Answer: Manufacturing base of electronics products in the country is grossly inadequate in comparison to demand of such goods. Even in cases where products are manufactured in India, the extent of domestic value addition is low Semiconductors are at the heart of any electronic system and constitute a significant part of the total value of the Bill of Material (BOM). One of the main impediments in the way of attracting investments for manufacture of semiconductors, components and electronic products is lack of availability of good and reliable infrastructure Government proposes to offer a package of incentives to attract domestic and global investments into the Electronics Systems Design and Manufacturing (ESDM) sector within Electronics Manufacturing Clusters (EMCs) as a means to minimizing the disabilities In conjunction with the said incentives, it is imperative to ensure that world-class infrastructure and facilities be provided in these EMCS to attract investment and to provide a level playing field. This requirement has also been projected in the report of the Task Force on IT/ITES and Electronics Hardware Manufacturing
+
+Question: What is full form of ESDM?
+Answer: Electronics Systems Design and Manufacturing
+
+Question: What is expected from EMCs?
+Answer: It is expected that these EMCS would aid the growth of the ESDM sector, help development of entrepreneurial ecosystem, drive innovation and catalyze the economic growth of the region by increasing employment opportunities and tax revenues.
+
+Question: Who funds the development of EMC?
+Answer: Government has decided to offer financial support for the development of EMCs.
+
+
+
+Title: emc contd
+
+Content: 2. Electronics Manufacturing Clusters (EMCs) 2.1.1 The financial assistance for setting up EMCS will be for both Greenfield EMCs and Brownfield EMCS For the purpose of the scheme - a) Greenfield EMC would be an undeveloped/underdeveloped geographical area, preferably contiguous, where the focus is on development of basic infrastructure, amenities and other common facilities for the ESDM units b) Brownfield EMC would be a geographical area where a significant number of existing ESDM units are located and the focus is on upgrading infrastructure and providing common facilities for the ESDM units 2.1.2 The proposed EMCS may use Information Technology Investment Regions (ITIRS) infrastructure, wherever available 2.2.1 The implementation of the scheme will be through a Special Purpose Vehicle (SPV) which will carry out the business of developing, operating and maintaining the infrastructure, amenities and other common facilities created in the EMCs. 2.2.2 All proposals for assistance under the EMC scheme shall be considered by a Steering Committee for Clusters (SCC) to be constituted by the Department of Electronics and Information Technology (Deity). The SCC will consider the proposals under EMC scheme and submit its recommendations to the competent authority for approval. The competent authority shall consider such recommendations and grant approvals. 2.2.3 For effective functioning of the SCC, a set of guidelines shall be drawn up by Deity and issued separately.
+
+Question: What are the two types of EMCs?
+Answer: Greenfield EMCs and Brownfield EMCS 
+
+Question: What is a Greenfield EMC?
+Answer: Greenfield EMC would be an undeveloped/underdeveloped geographical area, preferably contiguous, where the focus is on development of basic infrastructure, amenities and other common facilities for the ESDM units
+
+Question: What is a Brownfield EMC?
+Answer: Brownfield EMC would be a geographical area where a significant number of existing ESDM units are located and the focus is on upgrading infrastructure and providing common facilities for the ESDM units
+
+Question: What does ITIRS stand for?
+Answer: Information Technology Investment Regions 
+
+Question: How do EMCs function infrastructure wise?
+Answer: The proposed EMCS may use Information Technology Investment Regions (ITIRS) infrastructure, wherever available
+
+Question: Which EMC focuses development of basic infrastructure?
+Answer: Greenfield EMC
+
+Question: Who upgrades existing infrastructure of ESDM units?
+Answer: Brownfield EMC
+
+Question: What does SPV mean?
+Answer: Special Purpose Vehicle
+
+Question: What is the duty of SPV?
+Answer: The implementation of the scheme will be through a Special Purpose Vehicle (SPV) which will carry out the business of developing, operating and maintaining the infrastructure, amenities and other common facilities created in the EMCs.
+
+Question: What is the SCC?
+Answer: Steering Committee for Clusters
+
+Question: What is the Job of the SCC?
+Answer: All proposals for assistance under the EMC scheme shall be considered by a Steering Committee for Clusters (SCC) to be constituted by the Department of Electronics and Information Technology (Deity). The SCC will consider the proposals under EMC scheme and submit its recommendations to the competent authority for approval. The competent authority shall consider such recommendations and grant approvals.
+
+Question: Who makes the guidlines for proper functioning of the SCC?
+Answer: Department of Electronics and Information Technology (Deity).
+
+
+
+Title: financial assistance for EMC
+
+Content: 4.1 The financial assistance will be by the way of grant-in-aid (not equity) to the SPV 4.2.1 For Greenfield EMCS the assistance will be restricted to 50% of the project cost subject to a ceiling of Rs. 50 crores for every 100 acres of land For larger areas, pro-rata ceiling would apply. For lower extent, the extent of support would be decided by the SCC subject to the ceiling of Rs 50 crores. The remaining project cost will be financed by other stakeholders of the EMC with a minimum industry contribution of 25% of the project cost4.2.2 For Brownfield EMCS the assistance will be restricted to 75% of the project cost subject to a ceiling of Rs. 50 crores. The remaining project cost will be financed by other stakeholders of the EMC with a minimum industry contribution of 15%4.2.3 The administrative expenses would be restricted to 3% of the Central assistance in the project. Expenses towards preparation of Detailed Project Report (DPR) would also be considered a part of the project cost
+
+Question: In what way is financial assistance provided to the SPV?
+Answer: The financial assistance will be by the way of grant-in-aid (not equity) to the SPV
+
+Question: How are Greenfield EMCs funded?
+Answer: For Greenfield EMCS the assistance will be restricted to 50% of the project cost subject to a ceiling of Rs. 50 crores for every 100 acres of land For larger areas, pro-rata ceiling would apply. For lower extent, the extent of support would be decided by the SCC subject to the ceiling of Rs 50 crores. The remaining project cost will be financed by other stakeholders of the EMC with a minimum industry contribution of 25% of the project cost
+
+Question: How are Brownfield EMCs funded?
+Answer: For Brownfield EMCS the assistance will be restricted to 75% of the project cost subject to a ceiling of Rs. 50 crores. The remaining project cost will be financed by other stakeholders of the EMC with a minimum industry contribution of 15%4.2.3 The administrative expenses would be restricted to 3% of the Central assistance in the project. Expenses towards preparation of Detailed Project Report (DPR) would also be considered a part of the project cost
+
+Question: How much is the maximum amount given to EMCs as fuding?
+Answer: Rs. 50 crores for every 100 acres of land
+
+Question: What is the full form of DPR?
+Answer: Detailed Project Report
+
+
+
+Title: FAQs
+
+Content: The date of manufacturing for domestically produced goods and date of landing of consignments in India for goods manufactured overseas would apply for consideration against deadlines notified. The products manufactured / imported before the due date of coming into effect of Order are not covered under the ambit of the Order. The goods landing at Indian ports on or after the due date must comply with the requirements of Order. The manufacturer is eligible to apply and get unique registration number which is linked to manufacturer, location of factory, product and brand. The BIS Rules require a valid test report (not older than 90 days) from any BIS recognised test laboratory to be submitted while applying for Compulsory Registration. The test reports issued by BIS Recognised Labs as per the notified Indian Standards are only accepted for Registration. As per BIS Rules, the test report shall not be older than ninety days as on the date of submission of application online as well as physical application for registration.
+
+Question: The Compulsory Registration Order (CRO) will be effective based on manufacturing date or import date?
+Answer: The date of manufacturing for domestically produced goods and date of landing of consignments in India for goods manufactured overseas would apply for consideration against deadlines notified.
+
+Question: What would be the status of goods already in stock and in the market?
+Answer: The products manufactured / imported before the due date of coming into effect of Order are not covered under the ambit of the Order.
+
+Question: What will happen to goods ordered and expected to come on or after the due date (on account of deferment of shipments) or in transit?
+Answer: The goods landing at Indian ports on or after the due date must comply with the requirements of Order.
+
+Question: Who is eligible to get Unique Registration Number – the manufacturer or importer?
+Answer: The manufacturer is eligible to apply and get unique registration number which is linked to manufacturer, location of factory, product and brand.
+
+Question: If being manufactured by OEM and the product is already carrying CE, UL & FCC mark or tested as per International safety standard in overseas lab or a CB testing lab - do these products have to be retested or submission of test report from OEM supplier is enough for registration?
+Answer: The BIS Rules require a valid test report (not older than 90 days) from any BIS recognised test laboratory to be submitted while applying for Compulsory Registration. The test reports issued by BIS Recognised Labs as per the notified Indian Standards are only accepted for Registration.
+
+Question: What is the validity of test report?
+Answer: As per BIS Rules, the test report shall not be older than ninety days as on the date of submission of application online as well as physical application for registration
+
+
+
+Title: FAQs
+
+Content: The Standard Mark shall be placed on the product & the packaging both however, if it is not feasible to place the same on the product for size constraints, it can be put on the packaging only. For the products with display screen, provisions of e-labelling of products also exist. The unique registration number provided by BIS is for unique manufacturing location. Hence, separate application has to be made for each location and supported with a test report for product from that manufacturing location. The costs including those of surveillance are to be borne by the registered entity. The renewal is done by BIS on submission of renewal application in prescribed format by the registered user. The renewal application along with requisite fee shall be submitted at least one month in advance from the date of expiry of registration. Repeat testing is not specifically envisaged. However, test samples would be picked up for testing during surveillance. In accordance with para 3 of Order dated 13 Nov. 2014, testing may be needed if test report as per latest version of upgraded standard is not available at the time of renewal.
+
+Quesiton: Standard Mark will be on the product or packaging?
+Answer: The Standard Mark shall be placed on the product & the packaging both however, if it is not feasible to place the same on the product for size constraints, it can be put on the packaging only. For the products with display screen, provisions of e-labelling of products also exist.
+
+Question: If product is certified at one manufacturing location, is it necessary that registration for that same product manufactured at other locations is done again?
+Answer: The unique registration number provided by BIS is for unique manufacturing location. Hence, separate application has to be made for each location and supported with a test report for product from that manufacturing location.
+
+Question: Who will bear the cost of registration?
+Answer: The costs including those of surveillance are to be borne by the registered entity.
+
+Question: Is it required to get the product retested from a lab prior to renewal?
+Answer: The renewal is done by BIS on submission of renewal application in prescribed format by the registered user. The renewal application along with requisite fee shall be submitted at least one month in advance from the date of expiry of registration. Repeat testing is not specifically envisaged. However, test samples would be picked up for testing during surveillance. In accordance with para 3 of Order dated 13 Nov. 2014, testing may be needed if test report as per latest version of upgraded standard is not available at the time of renewal.
+
+
+
+Title: FAQs
+
+Content: It is the responsibility of manufacturer or its authorised Indian representative to get the products registered with BIS. The supplier’s test report is not acceptable. It is the responsibility of manufacturer to get the products tested from any BIS recognised laboratory. Such products will be picked up from the market or from the local representative of the foreign manufacturer during surveillance. The time period of testing depends upon the work load of the laboratory chosen by the manufacturer and submission of requisite technical details by the manufacturer for testing the product. Samples for initial registration can be submitted directly to any of the BIS recognized labs by the manufacturer. The registration will promptly be processed by BIS if all submitted documents are in order. Independent samples are picked up only during surveillance process. Manufacturer’s test laboratories are not entitled for recognition with BIS. There is no such requirement from the scheme. However, if relevant product standards call for it, the same would apply. It is the responsibility of the registered entity to ensure the compliance of goods to the respective standards by following appropriate process and product assurance procedures.
+
+Question: Who is liable for testing of imported products, Importer or Foreign Manufacturer?
+Answer: It is the responsibility of manufacturer or its authorised Indian representative to get the products registered with BIS.
+
+Question: Will the supplier’s test report be good enough for self-declaration for importer or trading company?
+Answer: The supplier’s test report is not acceptable.
+
+Question: What is the process of collecting product from foreign manufacturer?
+Answer: It is the responsibility of manufacturer to get the products tested from any BIS recognised laboratory. Such products will be picked up from the market or from the local representative of the foreign manufacturer during surveillance.
+
+Question: What is the time period of testing / collection / registration?
+Answer: he time period of testing depends upon the work load of the laboratory chosen by the manufacturer and submission of requisite technical details by the manufacturer for testing the product. Samples for initial registration can be submitted directly to any of the BIS recognized labs by the manufacturer. The registration will promptly be processed by BIS if all submitted documents are in order. Independent samples are picked up only during surveillance process.
+
+Question: Can the manufacturer apply for recognition with BIS for its own testing laboratory?
+Answer: Manufacturer’s test laboratories are not entitled for recognition with BIS.
+
+Question: Will the testing be required for every lot?
+Answer: There is no such requirement from the scheme. However, if relevant product standards call for it, the same would apply. It is the responsibility of the registered entity to ensure the compliance of goods to the respective standards by following appropriate process and product assurance procedures.
+
+
+
+Title: FAQs
+
+Content: Pre-certified safety critical components ( valid) of same ratings from different sources may be used under intimation to BIS alongwith copy of certificate. If Circuit / design / components changes , retesting is required. Refer to the applicable notified product standard to confirm if this is a requirement specified by the standard. The registered notified Goods shall display the Standard Mark. If needed, the trader has to supplement with a copy of the Registration Certificate / Source of procurement and related documents to establish compliance to the law. Products sent abroad for maintenance are allowed to be brought in without BIS registration number provided the model number/serial number does not change. In case of faulty units replaced with new units of a different serial number, the new units would call attention of Order There is no requirement for re-registration for the same model of the product. Registration once granted, is valid for two years. Original Registration could be revalidated, on request, as per provisions of the scheme. Communications are addressed to the registered entity / its authorized Indian representative. The Electronics and IT Goods (Requirement for Compulsory Registration) Order, 2012 mandating ‘Standard Mark’is applicable only to products listed in the Gazette Order notified by the MeitY.The Electronics and IT Goods (Requirement for Compulsory Registration) Order, 2012 is a regulatory requirement for placing products on Indian markets. It does not prohibit the purchaser from specifying additional technical requirements.
+
+Question: How to address if alternate sources are developed for same approved specifications? What will happen if the circuit or components are changed?
+Answer: Pre-certified safety critical components ( valid) of same ratings from different sources may be used under intimation to BIS alongwith copy of certificate. If Circuit / design / components changes , retesting is required.
+
+Question: Whether FR Grade material is mandatory under the standards?
+Answer: Refer to the applicable notified product standard to confirm if this is a requirement specified by the standard.
+
+Question: What document should trader demonstrate during surveillance?
+Answer: The registered notified Goods shall display the Standard Mark. If needed, the trader has to supplement with a copy of the Registration Certificate / Source of procurement and related documents to establish compliance to the law. 
+
+Question: If product is required to be sent abroad for maintenance, do we need to submit the product before custom clearance?
+Answer: Products sent abroad for maintenance are allowed to be brought in without BIS registration number provided the model number/serial number does not change. In case of faulty units replaced with new units of a different serial number, the new units would call attention of Order
+
+Question: Once the product is registered as imported, would the repeat order of same product need to again register?
+Answer: There is no requirement for re-registration for the same model of the product. Registration once granted, is valid for two years. Original Registration could be revalidated, on request, as per provisions of the scheme.
+
+Question: In case plant is outside India, who will communicate with manufacturer?
+Answer: Communications are addressed to the registered entity / its authorized Indian representative.
+
+Question: Is ‘Standard Mark’applicable for products mentioned in Gazette or can be applied to other electronics products also?
+Answer: The Electronics and IT Goods (Requirement for Compulsory Registration) Order, 2012 mandating ‘Standard Mark’is applicable only to products listed in the Gazette Order notified by the MeitY.
+
+Question: With this mandatory registration, will the other quality norms in tenders, empanelment like FCC, UL, CE, be removed?
+Answer: The Electronics and IT Goods (Requirement for Compulsory Registration) Order, 2012 is a regulatory requirement for placing products on Indian markets. It does not prohibit the purchaser from specifying additional technical requirements.
+
+
+
+Title: FAQs
+
+Content: The labs are expected to retain samples collected during surveillance till the surveillance cycle is completed. Once the surveillance is completed, based on instructions from MeitY laboratories shall can return the tested samples. If manufacturer does not collect the samples after two reminders, the labs shall dispose off tested samples as per their policy on retention period for tested samples. This counter sample, if picked up, will be retained by the manufacturer or sample pick up agency till MeitY closes surveillance cycle for that product BIS issues common test report formats for each standard/edition/amendment. These are available at http://bis.org.in/UTRFs/UTRFs.asp The Compulsory Registration Order applies to finished goods and not the spare parts/components used in the manufacturing of the finished goods, unless they are notified separately as independent products under CRO. Further, the import of the notified items in CKD (complete knock down) condition is allowed. However, for the import of notified goods, in SKD (semi knock down)condition, the import should be allowed only to the manufacturer of the end finished product which are having IEM license for manufacturing the same. If the products are imported in SKD condition, the customs shall ensure that the importer has valid authorization from the brand owner for assembling/manufacturing the end product
+
+Question: When would the testing laboratories return the tested samples?
+Answer: The labs are expected to retain samples collected during surveillance till the surveillance cycle is completed. Once the surveillance is completed, based on instructions from MeitY laboratories shall can return the tested samples. If manufacturer does not collect the samples after two reminders, the labs shall dispose off tested samples as per their policy on retention period for tested samples.
+
+Question: What happens when a manufacturer does not collect its samples?
+Answer: If manufacturer does not collect the samples after two reminders, the labs shall dispose off tested samples as per their policy on retention period for tested samples.
+
+Question: What is the retention period of counter sample?
+Answer: This counter sample, if picked up, will be retained by the manufacturer or sample pick up agency till MeitY closes surveillance cycle for that product
+
+Quesiton: Is there a common format for test reports which all the BIS recognised laboratories have to follow?
+Answer: BIS issues common test report formats for each standard/edition/amendment. These are available at http://bis.org.in/UTRFs/UTRFs.asp
+
+Question: Will the Compulsory Registration Order apply to spare parts of the notified products? Will the order apply to an item used as a replacement of a faulty unit?
+Answer: The Compulsory Registration Order applies to finished goods and not the spare parts/components used in the manufacturing of the finished goods, unless they are notified separately as independent products under CRO. Further, the import of the notified items in CKD (complete knock down) condition is allowed. However, for the import of notified goods, in SKD (semi knock down)condition, the import should be allowed only to the manufacturer of the end finished product which are having IEM license for manufacturing the same. If the products are imported in SKD condition, the customs shall ensure that the importer has valid authorization from the brand owner for assembling/manufacturing the end product
+
+Question: What is the full form of CRO?
+Answer: Compulsory Registration Order
+
+Question: What does CKD stand for?
+Answer: complete knock down
+
+Question: What is SKD?
+Answer: semi knock down
+
+Question: What happens when products are imported in SKD condition?
+Answer:  If the products are imported in SKD condition, the customs shall ensure that the importer has valid authorization from the brand owner for assembling/manufacturing the end product
+
+
+
+Title: FAQs
+
+Content: New products can be included in the existing Registration number with the following process -a. Technical details of the new product along with the existing Series and test report to be submitted to the Labs for validation. b. Validation report from Lab along with existing registration number for a series needs to be submitted to BIS along with processing fee. Highly Specialized Equipment (HSE), as per the criteria given below, shall stand exempted from the application of this Order provided they are manufactured / imported in less than 100 units per model per year –a. Equipment Powered by Three phase power supply, orb. Equipment Powered by Single phase power supply with current rating exceeding 16 Ampere, orc. Equipment with dimensions exceeding 1.5 m x 0.8 m, ord. Equipment with weight exceeding 80 Kg. These items are required to be independently registered. However, a battery using registered cells would only list cells in the CDF of the battery and testing on registered cell is not expected to be done as part of battery. Cells of same construction design means the shape in which these cells are normally available, i.e. “Cylindrical”, “Prismatic”, etc. As per the definition "a battery for use in a device or appliance which is conveniently hand carried is a portable battery and cells intended for assembly in a portable battery is a portable cell". The products laptop, mobile phone are portable appliances. If batteries can find a dual application i.e. for Potable/ non- portable , then they require registration from BIS. Sealed Secondary Cells/Batteries are covered under the Compulsory Registration Order with effect from 01.06.2016 and hence require mandatory BIS registration even if they form an integral part of the host product provided the host product is also covered under the Order. For products that are not covered under the order (for e.g shavers and trimmers etc), the batteries which are integral part of the product are not covered.
+
+Question: Will it be possible to get future models included in existing series (as part of 10 models in a series) after Grant of Registration to the representative model already registered?
+Answer: New products can be included in the existing Registration number with the following process -a. Technical details of the new product along with the existing Series and test report to be submitted to the Labs for validation. b. Validation report from Lab along with existing registration number for a series needs to be submitted to BIS along with processing fee.
+
+Question: What does HSE stand for?
+Answer: Highly Specialized Equipment
+
+Question: What is “Highly Specialized Equipment” (HSE)?
+Answer: Highly Specialized Equipment (HSE), as per the criteria given below, shall stand exempted from the application of this Order provided they are manufactured / imported in less than 100 units per model per year –a. Equipment Powered by Three phase power supply, orb. Equipment Powered by Single phase power supply with current rating exceeding 16 Ampere, orc. Equipment with dimensions exceeding 1.5 m x 0.8 m, ord. Equipment with weight exceeding 80 Kg.
+
+Question: Would cells and batteries require to be independently registered?
+Answer: These items are required to be independently registered. However, a battery using registered cells would only list cells in the CDF of the battery and testing on registered cell is not expected to be done as part of battery.
+
+Question: What is implied by cells of same construction design in series guidelines issued by MeitY?
+Answer: Cells of same construction design means the shape in which these cells are normally available, i.e. “Cylindrical”, “Prismatic”, etc.
+
+Question: What is the definition of portable application? Batteries, cells, power banks themselves are portable but they can be used in non-portable devices , laptop, mobile phone, etc
+Answer: As per the definition "a battery for use in a device or appliance which is conveniently hand carried is a portable battery and cells intended for assembly in a portable battery is a portable cell". The products laptop, mobile phone are portable appliances. If batteries can find a dual application i.e. for Potable/ non- portable , then they require registration from BIS.
+
+Question: How will the battery of a product be tested if it is an integral part of the product and cannot be detached?
+Answer: Sealed Secondary Cells/Batteries are covered under the Compulsory Registration Order with effect from 01.06.2016 and hence require mandatory BIS registration even if they form an integral part of the host product provided the host product is also covered under the Order. For products that are not covered under the order (for e.g shavers and trimmers etc), the batteries which are integral part of the product are not covered.
+
+
+
+Title: FAQs
+
+Content: Registration is required for Power Adaptors & Batteries also, as these are independently notified under CRO, and hence these items must independently be registered, and in turn, support the registration label. Similarly, the consolidated product (e.g. laptop / mobile) would only bear the registration no. of the overall product, i.e., Laptop/Mobile itself. Label for respective subparts, like: Adaptor & Battery would independently be visible on these subparts when these items are disintegrated from the main product. Only standalone UPS / Inverters are covered under Electronics and IT Goods(Requirement for Compulsory Registration) Order, 2012. However, if host system is not covered under CRO, UPS/Inverter incorporated in host system is not covered CRO. The plugs/sockets may be pre-certified to international standards. However, the configuration and dimensions of pins of sockets and plugs or plug part of products with built-in plugs should be as per the current edition of IS : 1293.However, ISI marking on plugs and sockets is not mandatory. Only power adapters for IT equipment, Audio/video equipment and household& similar electronic equipment are covered under CRO. For registration of multiple brands, photocopies of original report authenticated by the test lab could be submitted to BIS. The goods covered under CRS are required to be tested at BIS recognized Labs only. Power supply and other areas of the equipment crucial for electrical safety may be extracted from the equipment and tested separately, in case of such a situation of huge size, etc. Samples of all models for products covered in a series need not be submitted to the Labs. Worst case sample must be tested and documentary support should be provided to justify the series formation. For any notified host product, the safety critical component or other component which may have impact on safety of the product, be replaced with the component of same rating only. For example, in case of batteries, the battery should be of same voltage, current and capacity.
+
+Question: What registration number will a consolidated product (like laptop, mobile) using the battery and adaptor display?
+Answer: Registration is required for Power Adaptors & Batteries also, as these are independently notified under CRO, and hence these items must independently be registered, and in turn, support the registration label. Similarly, the consolidated product (e.g. laptop / mobile) would only bear the registration no. of the overall product, i.e., Laptop/Mobile itself. Label for respective subparts, like: Adaptor & Battery would independently be visible on these subparts when these items are disintegrated from the main product.
+
+Question: Will UPS / Inverter only include standalone units or Electronics and IT Goods (Requirement for Compulsory Registration) Order, 2012 will also cover UPS / Inverter units that are installed in a host system? Will such components also require registration? 
+Answer: Only standalone UPS / Inverters are covered under Electronics and IT Goods(Requirement for Compulsory Registration) Order, 2012. However, if host system is not covered under CRO, UPS/Inverter incorporated in host system is not covered CRO.
+
+Question: Are the plugs and sockets conforming to other International Standards acceptable?
+Answer: The plugs/sockets may be pre-certified to international standards. However, the configuration and dimensions of pins of sockets and plugs or plug part of products with built-in plugs should be as per the current edition of IS : 1293.However, ISI marking on plugs and sockets is not mandatory.
+
+Question: How are the power adapters or battery chargers for the products which are not covered under CRO to be treated?
+Answer: Only power adapters for IT equipment, Audio/video equipment and household& similar electronic equipment are covered under CRO.
+
+Quesiton: Does BIS Registration require original test report to be submitted for each brand covered based on the common testing report for multiple brands?
+Answer: For registration of multiple brands, photocopies of original report authenticated by the test lab could be submitted to BIS.
+
+Question: Can the ADP type of sample (e.g., huge servers) be tested on-site at manufacturer’s premises?
+Answer: The goods covered under CRS are required to be tested at BIS recognized Labs only. Power supply and other areas of the equipment crucial for electrical safety may be extracted from the equipment and tested separately, in case of such a situation of huge size, etc.
+
+Question: Whether samples of all models, for products covered in a series, need to be submitted to the Labs?
+Answer: Samples of all models for products covered in a series need not be submitted to the Labs. Worst case sample must be tested and documentary support should be provided to justify the series formation. 
+
+Question: What is the policy for replacement of safety critical component or other component of notified host product which may have impact on the safety of the notified host product?
+Answer: For any notified host product, the safety critical component or other component which may have impact on safety of the product, be replaced with the component of same rating only. For example, in case of batteries, the battery should be of same voltage, current and capacity.
+
+
+
+Title: FAQs
+
+Content: Any changes must be informed and have concurrence of the Registering Authority. Repeat testing, if needed could be asked for / provided. The desktop is automatic data processing equipment as per the definition. But, the desktop computer is not covered under the provisions of the said order. An Amplifier (PA system) with USB for playing music still remains an Amplifier (PA system) and cannot be termed as electronic music system because its basic function remains of amplifier only. As given in the Standard IS 616 : 2010, the electronic musical system covers -• Record or Disc Player• Tape Players and Recorder• Professional Sound / Video System i) Multimedia Speakers with independent power supply are covered under CRS. ii) Multimedia Speakers with built-in amplifiers and having diverse audio input connectivity, would also fall in the category of Electronic Musical Systems, and hence are covered under CRS if input power is equal to or more than 200W.The wireless devices like Wi-fi modems, BT headset, BT speakers, BT mouse, USB data card and USB LAN card are not exclusively covered under the scope of Compulsory Registration Order. These items are tested when supplied as accessory to the main system, while approval of the main system itself. What is the definition and scope under the title Automatic Data Processing (ADP) Machines in reference to the notified order?
+
+Question: What about remote handset changes in LCD / LED products time to time?
+Answer: Any changes must be informed and have concurrence of the Registering Authority. Repeat testing, if needed could be asked for / provided.
+
+Question: Is desktop computer included in the list under automatic data processing machines, since it does not appear as a separate item?
+Answer: The desktop is automatic data processing equipment as per the definition. But, the desktop computer is not covered under the provisions of the said order.
+
+Question: Will an Amplifier (PA system) with USB for playing music fall under Electronic Musical System category?
+Answer: An Amplifier (PA system) with USB for playing music still remains an Amplifier (PA system) and cannot be termed as electronic music system because its basic function remains of amplifier only.
+
+Question: Whether PA Amplifiers with MP3 Playback facility are covered under Electronic Musical System? MP3 Playback module provided in the Amplifiers is an additional feature only? 
+Answer: An Amplifier (PA system) with USB for playing music still remains an Amplifier (PA system) and cannot be termed as electronic music system because its basic function remains of amplifier only.
+
+Question: What are covered under Electronic Musical System?
+Answer: As given in the Standard IS 616 : 2010, the electronic musical system covers -• Record or Disc Player• Tape Players and Recorder• Professional Sound / Video System
+
+Question: Are Multi Media Speaker Systems parts of Amplifiers or Electronic Musical Systems?
+Answer: i) Multimedia Speakers with independent power supply are covered under CRS. ii) Multimedia Speakers with built-in amplifiers and having diverse audio input connectivity, would also fall in the category of Electronic Musical Systems, and hence are covered under CRS if input power is equal to or more than 200W.
+
+Question: What is input power criteria for CRS?
+Answer: equal to or more than 200W.
+
+Question: Are consumer wireless devices (Wi-fi and Blue tooth) covered under the scope?
+Answer: The wireless devices like Wi-fi modems, BT headset, BT speakers, BT mouse, USB data card and USB LAN card are not exclusively covered under the scope of Compulsory Registration Order. These items are tested when supplied as accessory to the main system, while approval of the main system itself.
+
+Question: What does ADP stand for in ADP Machines?
+Answer: Automatic Data Processing
+
+
+
+Title: FAQs
+
+Content: Standalone printers are covered by the Order. The printers used as an embedded part of a larger device, like ATM here, are not covered by the Order as host product is not covered under CRO however if this printer is imported standalone then it is covered under CRO and require mandatory BIS registration.. In the products where battery is forming an inseparable part of the product and the host product (e.g. shavers and trimmers) is not covered under the CRO, rechargeable batteries are not covered under CRO. Gazette notification and the relevant Indian Standards do not differentiate between professional use equipment and home use equipment. If any such equipment falls under the ambit of this order, as notified in the Schedule, it has to be registered with BIS By the definition and classification of ADP, these products are covered within the scope of the Order. BDU (Bill Dispenser Unit for ATM) and GBNA / GBRU (Bill recycler /Deposit Unit for ATM) or ATM itself are not covered by the Order Transcoder distributes content over IP network without the use of compression. This digital platform uses the network to distribute Video, Graphic, Audio and computer data in Raw uncompressed format. This is a telecom device and hence out of scope of Electronics and IT Goods(Requirement for Compulsory Registration) Order, 2012 Electronic Data Projectors, Electronic Cinema Projectors, Electronic meeting room projectors etc., are video projection units and all these are data process equipment and hence are covered under scope of Electronics and IT Goods(Requirement for Compulsory Registration) Order, 2012 as ADP machines.
+
+Question: Are thermal printers used in ATM machines covered in the definition for printers requiring Registration?
+Answer: Standalone printers are covered by the Order. The printers used as an embedded part of a larger device, like ATM here, are not covered by the Order as host product is not covered under CRO however if this printer is imported standalone then it is covered under CRO and require mandatory BIS registration..
+
+Question: Are built-in rechargeable batteries which cannot be detached by user (e.g. shavers and trimmers) covered under the Compulsory Registration Order?
+Answer: n the products where battery is forming an inseparable part of the product and the host product (e.g. shavers and trimmers) is not covered under the CRO, rechargeable batteries are not covered under CRO.
+
+Question: Do both professional use equipment and home use equipment require registration?
+Answer: Gazette notification and the relevant Indian Standards do not differentiate between professional use equipment and home use equipment. If any such equipment falls under the ambit of this order, as notified in the Schedule, it has to be registered with BIS 
+
+Question: Is “Session Border Controller” or “Unified Communication Server” used for data storage part of ADP? 
+Answer: By the definition and classification of ADP, these products are covered within the scope of the Order.
+
+Question: What does BDU stand for?
+Answer: Bill Dispenser Unit
+
+Question: Does Transcoder which distributes content over IP network without the use of compression require registration?
+Answer: Transcoder distributes content over IP network without the use of compression. This digital platform uses the network to distribute Video, Graphic, Audio and computer data in Raw uncompressed format. This is a telecom device and hence out of scope of Electronics and IT Goods(Requirement for Compulsory Registration) Order, 2012
+
+Question: Do Electronic Data Projectors, Electronic Cinema Projectors, Electronic meeting room projectors etc., which are video projection units, require registration?
+Answer: Electronic Data Projectors, Electronic Cinema Projectors, Electronic meeting room projectors etc., are video projection units and all these are data process equipment and hence are covered under scope of Electronics and IT Goods(Requirement for Compulsory Registration) Order, 2012 as ADP machines.
